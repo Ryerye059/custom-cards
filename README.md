@@ -7,4 +7,4 @@ https://docs.google.com/document/d/1_SeFztHfN7XlulNTD0zOxRVWwZPHfnLO15ciZEwiJNI/
 Red Rising: \
 https://docs.google.com/document/d/1KzvR3FiWfEVsGbnMx7Q0f1IfF4xEc6DPXi-Cq-i_JHo/edit?usp=sharing \
 Isekai: \
-https://docs.google.com/document/d/1zXxMr721v-eCl64iDti--hoCFuSEZXrXv0_NYdt_rPk/edit?usp=sharing \
+https://docs.google.com/document/d/1zXxMr721v-eCl64iDti--hoCFuSEZXrXv0_NYdt_rPk/edit?usp=sharing
