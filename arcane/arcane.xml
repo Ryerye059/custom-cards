@@ -140,7 +140,7 @@ Vi gains +2/+1 for each equipment attached to her.</text>
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever you cast a nonpermanent spell, you get EE.
+      <text>Whenever you cast an instant or sorcery spell, you get EE.
 {1}, {T}: Copy target activated or triggered ability you control from an artifact source. You may choose new targets for the copy.(Mana abilities can’t be targeted.)
 Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that ability. Hextech cannot be responded to.)</text>
       <related>Energy Reserve</related>
@@ -599,6 +599,7 @@ Hextech (Whenever an ability of this permanent is triggered/activated you may pa
       <tablerow>1</tablerow>
       <text></text>
       <related>Energy Reserve</related>
+      <related>Jinx Bomb</related>
     </card>
     <card>
       <name>Firelight Hoverboard</name>
@@ -1844,7 +1845,7 @@ Flashback 1W (You may cast this card from your graveyard for its flashback cost.
         <cmc>4</cmc>
         <type>Planeswalker - Vi </type>
         <maintype>Planeswalker</maintype>
-      <loyalty>5</loyalty>
+      <loyalty>3</loyalty>
       </prop>
       <tablerow>1</tablerow>
       <text>+1: -3: -9: </text>
