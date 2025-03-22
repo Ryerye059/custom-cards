@@ -49,7 +49,7 @@ Whenever a nontoken creature you control enters, put a +1/+1 counter on it and d
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Until the next endstep, permanents you control have hextech and nonpermanent spells you cast have hexfueled. (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that permanent’s ability. When this spell is cast, you may pay EEE. If you do, copy this spell.)</text>
+      <text>Until the next endstep, permanents you control have hextech and nonpermanent spells you cast have hexfueled. (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that ability. Hextech cannot be responded to. When this spell is cast, you may pay EEE. If you do, copy this spell.)</text>
       <related>Energy Reserve</related>
     </card>
     <card>
@@ -137,12 +137,12 @@ Vi gains +2/+1 for each equipment attached to her.</text>
         <cmc>3</cmc>
         <type>Legendary Creature - Human Rogue Peasant </type>
         <maintype>Creature</maintype>
-        <pt>4/2</pt>
+        <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever you cast a nonpermanent spell, you get EE.
 {1}, {T}: Copy target activated or triggered ability you control from an artifact source. You may choose new targets for the copy.(Mana abilities can’t be targeted.)
-Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that permanent’s ability.)</text>
+Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that ability. Hextech cannot be responded to.)</text>
       <related>Energy Reserve</related>
     </card>
     <card>
@@ -159,7 +159,7 @@ Hextech (Whenever an ability of this permanent is triggered/activated you may pa
       <tablerow>2</tablerow>
       <text>When Ekko, Punctual Leader enters, if you cast it, create a tapped colorless land token named Firelight Tree that is every basic land type.
 {T}: Untap target creature. Prevent all combat damage that would be dealt to and dealt by that creature this turn.
-Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that permanent’s ability.)</text>
+Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that ability. Hextech cannot be responded to.)</text>
       <related>Energy Reserve</related>
     </card>
     <card>
@@ -209,7 +209,7 @@ Partners with Vander, Barbarian Protector </text>
       <text>Deathtouch
 {4}, {T}: Caitlyn Kiramman deals 1 damage to target creature. This damage cannot be prevented.
 On your endstep, if Caitlyn Kiramman didn’t attack this turn you get {E}.
-Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that permanent’s ability.)</text>
+Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that ability. Hextech cannot be responded to.)</text>
       <related>Energy Reserve</related>
     </card>
     <card>
@@ -242,7 +242,7 @@ Whenever you gain energy, put a +1/+1 counter on Jayce, Industry Revolutionary.<
       <tablerow>2</tablerow>
       <text>Whenever you gain energy, you may pay EE. If you do, draw a card.
 {T}, Pay 4 life: You get EEEE
-Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that permanent’s ability.)</text>
+Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that ability. Hextech cannot be responded to.)</text>
       <related>Energy Reserve</related>
     </card>
     <card>
@@ -336,7 +336,7 @@ Creatures have haste.</text>
       <tablerow>1</tablerow>
       <text>When Ekko’s Watch enters, you get EEE.
 {T}, Pay EE: Counter target ability.
-Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that permanent’s ability.)</text>
+Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that ability. Hextech cannot be responded to.)</text>
       <related>Energy Reserve</related>
     </card>
     <card>
@@ -353,7 +353,7 @@ Hextech (Whenever an ability of this permanent is triggered/activated you may pa
       <text>Equipped creature has battle cry.
 At the beginning of your endstep, if Atlas Gauntlets’s ability wasn’t activated this turn, gain {E}.
 {T}, Pay EE: Double the equipped creature’s power until end of turn.
-Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that permanent’s ability.)
+Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that ability. Hextech cannot be responded to.)
 Equip {1}</text>
       <related>Energy Reserve</related>
     </card>
@@ -369,7 +369,7 @@ Equip {1}</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever equipped creature deals combat damage, equipped creature deals 1 damage to any target.
-Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that permanent’s ability.)
+Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that ability. Hextech cannot be responded to.)
 Equip {1}</text>
       <related>Energy Reserve</related>
     </card>
@@ -387,7 +387,7 @@ Equip {1}</text>
       <text>Equipped creature has haste and is goaded.
 Whenever equipped creature attacks, you get EE
 {T}, Pay EEE: Equipped creature gets +4/+4 and trample until end of turn.
-Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that permanent’s ability.)
+Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that ability. Hextech cannot be responded to.)
 Equip {2}</text>
       <related>Energy Reserve</related>
     </card>
@@ -404,7 +404,7 @@ Equip {2}</text>
       <tablerow>1</tablerow>
       <text>If you would gain energy, you may pay 1 life. If you do, you gain that much energy plus {E} instead.
 {T}: Surveil 2. For each card put in the graveyard this way, gain {E}.
-Hextech. (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that permanent’s ability.)</text>
+Hextech. (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that ability. Hextech cannot be responded to.)</text>
       <related>Energy Reserve</related>
     </card>
     <card>
@@ -583,7 +583,7 @@ Hexfueled (When this spell is cast, you may pay EEE. If you do, copy this spell.
 Whenever Super Mega Death Rocket is equipped, put five +1/+1 counters on equipped creature
 If equipped creature attacked this turn, sacrifice it at the end of combat.
 Equip nontoken — Sacrifice a nontoken creature
-Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that permanent’s ability.)</text>
+Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that ability. Hextech cannot be responded to.)</text>
       <related>Energy Reserve</related>
     </card>
     <card>
@@ -1166,7 +1166,7 @@ Each player may create a Food, Treasure, or Clue token. For each player that doe
       <tablerow>2</tablerow>
       <text>Creatures you control have vigilance and first strike.
 H/WH/W2: Jovial Yordle gains +6/+0 until end of turn
-Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that permanent’s ability.)</text>
+Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that ability. Hextech cannot be responded to.)</text>
       <related>Energy Reserve</related>
     </card>
     <card>
@@ -1258,7 +1258,7 @@ Artifact spells you cast cost {1} less to cast.</text>
       <tablerow>1</tablerow>
       <text>When Calcified Sacrifice enters you get EEEEE.
 {T}, Pay EE: Calcified Sacrifice deals 3 damage to any target
-Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that permanent’s ability.)</text>
+Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that ability. Hextech cannot be responded to.)</text>
       <related>Energy Reserve</related>
     </card>
     <card>
@@ -1319,7 +1319,7 @@ H/BH/U, {T}: Target creature’s controller may return it to their hand. If they
       <tablerow>2</tablerow>
       <text>Whenever The Mage on High deals damage to a creature, return that creature to its owner’s hand.
 {3}, {T}: The Mage on High deals 1 damage to any target
-Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that permanent’s ability.)</text>
+Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that ability. Hextech cannot be responded to.)</text>
       <related>Energy Reserve</related>
     </card>
     <card>
@@ -1335,7 +1335,7 @@ Hextech (Whenever an ability of this permanent is triggered/activated you may pa
       <tablerow>1</tablerow>
       <text>{3}: You get EE
 {T}, Pay EEE: Add three mana of any color
-Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that permanent’s ability.)</text>
+Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that ability. Hextech cannot be responded to.)</text>
       <related>Energy Reserve</related>
     </card>
     <card>
