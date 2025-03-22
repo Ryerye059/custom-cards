@@ -1,0 +1,2037 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>ACN</name>
+      <longname>Arcane MTG Cards</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Firelight Haven</name>
+      <set rarity="mythic">ACN</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>7GGGG</manacost>
+        <cmc>11</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>This spell costs {X} less to cast, where X is the greatest power among creatures you control.
+{T}: Add GG. You gain 2 life.
+Whenever a nontoken creature you control enters, put a +1/+1 counter on it and draw a card.</text>
+    </card>
+    <card>
+      <name>Hexgate</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If you would get one or more {E}, you get twice that many {E} instead.</text>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>The Dream of Hextech</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Until the next endstep, permanents you control have hextech and nonpermanent spells you cast have hexfueled. (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that permanent’s ability. When this spell is cast, you may pay EEE. If you do, copy this spell.)</text>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>Stillwater Hold</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Stillwater Hold enters, exile target permanent until Stillwater Hold leaves. Put XX charge counters on Stillwater Hold where X is the mana value of the exiled card.
+Whenever you gain energy, remove that many charge counters from Stillwater Hold.
+As long as Stillwater Hold has no charge counters, you may cast it’s exiled card without paying it’s mana cost.</text>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>Failed Revolution</name>
+      <set rarity="common">ACN</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gains “When this creature dies, if it wasn’t sacrificed, create two 1/1 Child token copies of it.” until end of turn.
+Hexfueled (When this spell is cast, you may pay EEE. If you do, copy this spell.)</text>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>Violet</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Peasant Child </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, First strike</text>
+    </card>
+    <card>
+      <name>Powder</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Peasant Child </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fabricate 2 (When this creature enters, put two +1/+1 counters on it or create two 1/1 colorless Servo artifact creature tokens.)</text>
+    </card>
+    <card>
+      <name>Vi, Undercity Brawler</name>
+      <set rarity="mythic">ACN</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Warrior Peasant </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Whenever Vi, Undercity Brawler attacks, you get EE.
+Vi gains +2/+1 for each equipment attached to her.</text>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>Jinx, Schizophrenic Rebel</name>
+      <set rarity="mythic">ACN</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Rogue Peasant </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a nonpermanent spell, you get EE.
+{1}, {T}: Copy target activated or triggered ability you control from an artifact source. You may choose new targets for the copy.(Mana abilities can’t be targeted.)
+Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that permanent’s ability.)</text>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>Ekko, Punctual Leader</name>
+      <set rarity="mythic">ACN</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>GU</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Human Rogue Peasant </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Ekko, Punctual Leader enters, if you cast it, create a tapped colorless land token named Firelight Tree that is every basic land type.
+{T}: Untap target creature. Prevent all combat damage that would be dealt to and dealt by that creature this turn.
+Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that permanent’s ability.)</text>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>Vander, Barbarian Protector</name>
+      <set rarity="mythic">ACN</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your endstep, place a +1/+1 counter on each creature you control that didn’t attack this turn.
+Creatures you control with three or more +1/+1 counters on them have trample.
+Partners with Grayson, Piltover Sheriff</text>
+    </card>
+    <card>
+      <name>Grayson, Piltover Sheriff</name>
+      <set rarity="mythic">ACN</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Modified creatures you control have vigilance.
+{3}, {T}: Put a shield counter on target creature. Activate only at sorcery speed. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
+Partners with Vander, Barbarian Protector </text>
+    </card>
+    <card>
+      <name>Caitlyn Kiramman, Sharpshooter</name>
+      <set rarity="mythic">ACN</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>2U/B</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Noble Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+{4}, {T}: Caitlyn Kiramman deals 1 damage to target creature. This damage cannot be prevented.
+On your endstep, if Caitlyn Kiramman didn’t attack this turn you get {E}.
+Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that permanent’s ability.)</text>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>Jayce, Industry Revolutionary</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Artificer Noble </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast an artifact spell, you get EE.
+Whenever you gain energy, put a +1/+1 counter on Jayce, Industry Revolutionary.</text>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>Viktor, Arcane Scientist</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>2U/BU/B</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Artificer Peasant </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you gain energy, you may pay EE. If you do, draw a card.
+{T}, Pay 4 life: You get EEEE
+Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that permanent’s ability.)</text>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>Silco, The Eye of Zaun</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>3BR</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Human Peasant </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Silco, The Eye of Zaun attacks, it deals 4 damage to any target.
+Whenever you lose 3 or more life, you get EE.</text>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>Heimerdinger, Eternal Watcher</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>1W/UW/U</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Yordle Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you draw a card except the first one you draw in each of your draw steps, you get {E}.
+Heimerdinger, Eternal Watcher gets +1/+1 for every {E} you have.</text>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>Mel Medarda, Politican</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1WB</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>0/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sacrifice an artifact: Gain 2 life and scry 1
+Whenever you gain 2 or more life, you get {E}.</text>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>Pet Poro</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Poro </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>If you would get one or more {E}, you get that many plus one {E} instead.</text>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>Ambessa Medarda</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human &quot;Advisor&quot; </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Creatures must attack each combat if able.
+Creatures have haste.</text>
+    </card>
+    <card>
+      <name>Ekko&apos;s Watch</name>
+      <set rarity="mythic">ACN</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Ekko’s Watch enters, you get EEE.
+{T}, Pay EE: Counter target ability.
+Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that permanent’s ability.)</text>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>Atlas Gauntlets</name>
+      <set rarity="mythic">ACN</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>RR</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature has battle cry.
+At the beginning of your endstep, if Atlas Gauntlets’s ability wasn’t activated this turn, gain {E}.
+{T}, Pay EE: Double the equipped creature’s power until end of turn.
+Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that permanent’s ability.)
+Equip {1}</text>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>Pow-Pow</name>
+      <set rarity="mythic">ACN</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>U/R</manacost>
+        <cmc>1</cmc>
+        <type>Legendary Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever equipped creature deals combat damage, equipped creature deals 1 damage to any target.
+Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that permanent’s ability.)
+Equip {1}</text>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>Mercury Hammer</name>
+      <set rarity="mythic">ACN</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature has haste and is goaded.
+Whenever equipped creature attacks, you get EE
+{T}, Pay EEE: Equipped creature gets +4/+4 and trample until end of turn.
+Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that permanent’s ability.)
+Equip {2}</text>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>The Hexcore</name>
+      <set rarity="mythic">ACN</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If you would gain energy, you may pay 1 life. If you do, you gain that much energy plus {E} instead.
+{T}: Surveil 2. For each card put in the graveyard this way, gain {E}.
+Hextech. (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that permanent’s ability.)</text>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>Mysterious Mage</name>
+      <set rarity="uncommon">ACN</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>UU</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Mysterious Mage enters, it explores and you get {E}. (To explore, reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)</text>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>Mystic Forge</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may look at the top card of your library any time.
+You may cast artifact spells and colorless spells from the top of your library.
+{T}, Pay 1 life: Exile the top card of your library.</text>
+    </card>
+    <card>
+      <name>Shimmer</name>
+      <set rarity="uncommon">ACN</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Blood </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of combat on your turn, put a +1/+0 counter on equipped creature. If Shimmer isn’t equipped, lose 2 life.
+{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card
+Equip {1}</text>
+    </card>
+    <card>
+      <name>Shimmer Addict</name>
+      <set rarity="common">ACN</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Coward </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you discard a card, put a +1/+1 counter on Shimmer Addict.</text>
+    </card>
+    <card>
+      <name>Shimmer Monster</name>
+      <set rarity="common">ACN</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Mutant Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, you may lose 3 life. If you do, Shimmer Monster gets +2/+2 until end of turn and you gain 2 life on your next endstep.</text>
+    </card>
+    <card>
+      <name>A Small Explosion</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Suspend 2 RR
+As an additional cost to cast this spell, sacrifice a creature.
+Target player sacrifices two creatures.
+Hexfueled (When this spell is cast, you may pay EEE. If you do, copy this spell.)</text>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>Arcane Crystal</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, you get EE and gain 1 life.</text>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>Refined Arcane Crystal</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of each upkeep, you get {E}.</text>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>Slip Through the Cracks</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>UU</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature can’t be blocked this turn. It gains hexproof and indestructible until end of turn.
+Hexfueled (When this spell is cast, you may pay EEE. If you do, copy this spell.)</text>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>Breakthrough</name>
+      <set rarity="common">ACN</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw three cards, then discard two cards.
+Hexfueled (When this spell is cast, you may pay EEE. If you do, copy this spell.)</text>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>Ventilation Workshop</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>2U/R</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Noncreature artifacts you control have “{1}: Put an amount of +1/+1 counters on this artifact equal to it’s mana value. This artifact becomes an artifact creature. Activate only as a sorcery.”</text>
+    </card>
+    <card>
+      <name>Super Mega Death Rocket</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RRR</manacost>
+        <cmc>4</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature is unblockable.
+Whenever Super Mega Death Rocket is equipped, put five +1/+1 counters on equipped creature
+If equipped creature attacked this turn, sacrifice it at the end of combat.
+Equip nontoken — Sacrifice a nontoken creature
+Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that permanent’s ability.)</text>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>Hextech Revolution</name>
+      <set rarity="mythic">ACN</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Class </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>Firelight Hoverboard</name>
+      <set rarity="mythic">ACN</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature has flying and gets +X/+X, where X is the number of charge counters on Firelight Hoverboard.
+Landfall—Whenever a land enters under your control, put a charge counter on Firelight Hoverboard.
+Equip 1W</text>
+    </card>
+    <card>
+      <name>Firelight</name>
+      <set rarity="common">ACN</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Firelight enters, you may exile target land you control and return it to the battlefield.</text>
+    </card>
+    <card>
+      <name>Corrupt Cop</name>
+      <set rarity="common">ACN</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1BR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Coward </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste, Deathtouch
+Whenever Corrupt Cop attacks, the defending player may have you create two treasures. If they do, untap Corrupt Cop. Prevent all combat damage that would be dealt to and dealt by Corrupt Cop this turn.</text>
+      <related count="2">A_treasure</related>
+    </card>
+    <card>
+      <name>Firelight Racer</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Rebel </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+If Firelight Racer is modified, it has flying. (Equipment, Auras you control, and counters are modifications.)</text>
+    </card>
+    <card>
+      <name>Singed Scientist</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Rebel </type>
+        <maintype>Creature</maintype>
+        <pt>0/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender
+Whenever a creature you control becomes modified, put two +1+/1 counters on it. (Equipment, Auras you control, and counters are modifications.)</text>
+    </card>
+    <card>
+      <name>Isha, Doomed Child</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>RR</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Human Child </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a creature you control dies, you may sacrifice Isha, Doomed Child.
+When Isha is sacrificed, deal 10 damage to any target.</text>
+    </card>
+    <card>
+      <name>Warwick, The Enraged</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>3BR</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Beast Beserker </type>
+        <maintype>Creature</maintype>
+        <pt>5/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste, Trample, Menace
+At the beginning of your upkeep, put a blaze counter on Warwick, The Enraged.
+Warwick gets +1/-1 for each blaze counter on it.</text>
+    </card>
+    <card>
+      <name>The Beast&apos;s Hunt</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>B/RB/RB/R</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever an opponent deals damage to you, put a blood counter on The Beast’s Hunt and they create a blood token. (It’s an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)
+Whenever The Beast’s Hunt has 6 or more blood counters on it, exile it and return it transformed.</text>
+      <related>Warwick, The Primal</related>
+      <related count="1">A_blood</related>
+    </card>
+    <card>
+      <name>Warwick, The Primal</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Beast Beserker </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace, Deathtouch, Trample
+Whenever Warwick, The Primal deals combat damage to an opponent, draw a card.</text>
+      <related>The Beast&apos;s Hunt</related>
+    </card>
+    <card>
+      <name>The Monster in the Cave</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BBB</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature an opponent controls dies, put a blood counter on The Monster in the Cave and create a treasure token.
+Whenever The Monster in the Cave has 10 or more blood counters on it, exile it and return it transformed.</text>
+      <related>Warwick, The Bloodthirsty</related>
+      <related count="1">A_treasure</related>
+    </card>
+    <card>
+      <name>Warwick, The Bloodthirsty</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Beast Beserker </type>
+        <maintype>Creature</maintype>
+        <pt>6/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike, Haste
+Warwick, The Bloodthirsty must attack each combat if able
+Whenever Warwick, The Bloodthirsty deals combat damage to an creature, put a +1/+1 counter on Warwick, The Bloodthirsty.</text>
+      <related>The Monster in the Cave</related>
+    </card>
+    <card>
+      <name>Sniper Rifle</name>
+      <set rarity="uncommon">ACN</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Deathtouch
+Equipped creature has first strike.
+{5}, {T}: Deal 1 damage to target creature. Activate only if Sniper Rifle is attached to a creature.
+Equip {R}</text>
+    </card>
+    <card>
+      <name>Arcane Shield</name>
+      <set rarity="uncommon">ACN</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>While a creature you control is blocking, you may cast this spell as though it had flash.
+Equipped creature has defender and +0/+4.
+When Arcane Shield enters, attach it to target creature you control.
+Equip {2}</text>
+    </card>
+    <card>
+      <name>Dual Nature</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1WB</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+ • Put a shield counter on target creature (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
+ • Destroy target creature</text>
+    </card>
+    <card>
+      <name>Immortalization</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature or enchantment
+Enchanted permanent loses all abilities and becomes an enchantment with “Creatures you control gain +1/+0”</text>
+    </card>
+    <card>
+      <name>Battle of Titans</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create two 1/1 green insect creature tokens. Then if you’ve dealt combat damage this turn put four +1/+1 counters on each of them.</text>
+    </card>
+    <card>
+      <name>Cornered Psyche</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>UUU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Gain control of target spell or ability
+Channel — {2}, Discard Cornered Psyche: Investigate twice (To investigate, create a Clue token. It’s an artifact with “{2}, Sacrifice this artifact: Draw a card.”)</text>
+      <related count="2">A_clue</related>
+    </card>
+    <card>
+      <name>Dispersed in the Crowd</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Dispersed in the Crowd enters, if you cast it, create two copies of target creature. The “legend rule” doesn’t apply to these tokens.
+Whenever a creature you control is dealt damage, that damage is instead dealt to a random creature you control with the same name.
+Whenever a creature you control is targeted, instead a random creature you control with the same name is targeted.</text>
+    </card>
+    <card>
+      <name>Fight the Monster</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>1B/GB/GB/G</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a 4/4 green black beast creature token with deathtouch. It fights target creature.</text>
+    </card>
+    <card>
+      <name>Raise the Morale</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>2U/R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Creatures you control get +1/+1 for each nontoken artifact you control until end of turn.</text>
+    </card>
+    <card>
+      <name>Good times</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create two Treasure tokens.
+Target creature can’t attack or block until your next upkeep. If Good times was cast from exile, instead destroy target creature.
+Flashback 2R (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+      <related count="2">A_treasure</related>
+    </card>
+    <card>
+      <name>Mind of the Beast</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant Creature
+Enchanted creature can’t block and is goaded.
+Enchanted creature loses all activated abilities.</text>
+    </card>
+    <card>
+      <name>Firelight Tree</name>
+      <set rarity="common">ACN</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land is a Plains, Island, Swamp, Mountain, and Forest. ({T}: Add {W}, {U}, {B}, {R}, or {G}.)</text>
+    </card>
+    <card>
+      <name>Jinx Bomb</name>
+      <set rarity="common">ACN</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token Creature - Servo </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Stink Maw</name>
+      <set rarity="common">ACN</set>
+      <prop>
+        <colors>G</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Warwick</name>
+      <set rarity="common">ACN</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch</text>
+    </card>
+    <card>
+      <name>A_treasure</name>
+      <set rarity="common">ACN</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token Artifact - Treasure </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice this artifact: Add one mana of any color to your mana pool.</text>
+    </card>
+    <card>
+      <name>A_clue</name>
+      <set rarity="common">ACN</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token Artifact - Clue </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, Sacrifice this artifact: Draw a card</text>
+    </card>
+    <card>
+      <name>Copy</name>
+      <set rarity="common">ACN</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token</type>
+        <maintype>Token</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>This token can be used to represent a copy of a permanent.</text>
+    </card>
+    <card>
+      <name>Corner the Monster</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Until end of turn, creatures you control can directly attack target creature.</text>
+    </card>
+    <card>
+      <name>Arcane Followers</name>
+      <set rarity="common">ACN</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Creature - Human Army </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>On your upkeep, amass Humans 1.
+{4}: Exile Arcane Followers and return it transformed to the battlefield under your control.
+Impending 4 {U/B} (If you cast this spell for its impending cost, it enters with four time counters and isn’t a creature until the last is removed. At the beginning of your end step, remove a time counter from it.)</text>
+      <related>Awakened Arcane Drones</related>
+    </card>
+    <card>
+      <name>Awakened Arcane Drones</name>
+      <set rarity="common">ACN</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Creature - Drone Army </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>On your upkeep, amass Drones 2. (Create two +1/+1 counters on an Army you control. It’s also a Drone. If you don’t control an Army, create a 0/0 black Drone Army creature token first.)
+Flying, Vigilance
+Awakened Arcane Drones can block up to two creatures.</text>
+    </card>
+    <card>
+      <name>Priest of the Arcane</name>
+      <set rarity="common">ACN</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human  </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you gain two or more energy, you may pay 2 life. If you do, transform Priest of the Arcane.</text>
+      <related>Arcane Drone</related>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>Arcane Drone</name>
+      <set rarity="common">ACN</set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Creature - Phyrexian Drone </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, Flying</text>
+    </card>
+    <card>
+      <name>Powder, The Girl Savior</name>
+      <set rarity="mythic">ACN</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>2WU</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>0/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you gain two or more energy, you may put a defender counter on target creature.
+{2}, {T}: You get EE. Activate only as a sorcery.</text>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>The Power of Forgiveness</name>
+      <set rarity="uncommon">ACN</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>WU</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may only cast this spell if you’ve been attacked by target player this turn.
+Target player can’t attack you until their next endstep and draws a card.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>A Moment of Peace</name>
+      <set rarity="uncommon">ACN</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Demonstrate (When you cast this spell, you may copy it. If you do, choose an opponent to also copy it.)
+Each player may create a Food, Treasure, or Clue token. For each player that does, you get {E}.</text>
+      <related count="1">A_treasure</related>
+      <related count="1">A_food</related>
+      <related count="1">A_clue</related>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>Jovial Yordle</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Yordle  </type>
+        <maintype>Creature</maintype>
+        <pt>0/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Creatures you control have vigilance and first strike.
+H/WH/W2: Jovial Yordle gains +6/+0 until end of turn
+Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that permanent’s ability.)</text>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>Ascended City</name>
+      <set rarity="mythic">ACN</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}
+{T}: Add {E}. Lose 1 life.</text>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>A Glimpse of the Future</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>UU</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Scry 2
+Investigate twice (To investigate, create a Clue token. It’s an artifact with “{2}, Sacrifice this artifact: Draw a card.”)
+You get EE</text>
+      <related count="2">A_clue</related>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>Infected Wound</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put two -1/-1 counters on target creature that’s been dealt damage this turn. Create a treasure token.</text>
+      <related>A_treasure</related>
+    </card>
+    <card>
+      <name>Scholarly Study</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Scholarly Study enters, you get EE.
+Pay EEEEE: Transform Scholarly Study</text>
+      <related>Time Altering Breakthrough</related>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>Time Altering Breakthrough</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Energy costs you pay cost {E} less to pay.
+Artifact spells you cast cost {1} less to cast.</text>
+    </card>
+    <card>
+      <name>Calcified Sacrifice</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Calcified Sacrifice enters you get EEEEE.
+{T}, Pay EE: Calcified Sacrifice deals 3 damage to any target
+Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that permanent’s ability.)</text>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>Journey Away</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Suspend 1 2G/U (Rather than cast this card from your hand, pay 2G/U and exile it with a time counter on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)
+Exile target creature. If you controlled the targeted creature, create a tapped colorless land token named Firelight Tree that is every basic land type and investigate three times.</text>
+      <related>Firelight Tree</related>
+    </card>
+    <card>
+      <name>Energy Reserve</name>
+      <set rarity="common">ACN</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>LeBlanc</name>
+      <set rarity="mythic">ACN</set>
+      <prop>
+        <colors>UBR</colors>
+        <manacost>2UBR</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+{H/R}, {T}: LeBlanc deals 1 damage to target creature.
+H/BH/U, {T}: Target creature’s controller may return it to their hand. If they do, draw a card. Otherwise, gain control of it. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>The Mage on High</name>
+      <set rarity="mythic">ACN</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>UU/BB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever The Mage on High deals damage to a creature, return that creature to its owner’s hand.
+{3}, {T}: The Mage on High deals 1 damage to any target
+Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that permanent’s ability.)</text>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>Arcane Anomaly</name>
+      <set rarity="mythic">ACN</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{3}: You get EE
+{T}, Pay EEE: Add three mana of any color
+Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that permanent’s ability.)</text>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>Beseach God</name>
+      <set rarity="mythic">ACN</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>BR</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+•  Deal 4 damage to any target
+•  Create two Treasure tokens.</text>
+      <related count="2">A_treasure</related>
+    </card>
+    <card>
+      <name>A_blood</name>
+      <set rarity="common">ACN</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token Artifact - Blood </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card</text>
+    </card>
+    <card>
+      <name>A_food</name>
+      <set rarity="common">ACN</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token Artifact - Food </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, {T}, Sacrifice this artifact: You gain 3 life</text>
+    </card>
+    <card>
+      <name>Arcane Spy</name>
+      <set rarity="mythic">ACN</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Drone </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Arcane Spy enters you get EE.
+Pay {E}: Transform Arcane Spy</text>
+      <related>Revealed Spy</related>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>Revealed Spy</name>
+      <set rarity="mythic">ACN</set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Artifact - Treasure Clue </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, Sacrifice this artifact: Draw a card
+{T}, Sacrifice this artifact: Add one mana of any color to your mana pool.</text>
+      <related>Arcane Spy</related>
+    </card>
+    <card>
+      <name>Lesbian Sex</name>
+      <set rarity="mythic">ACN</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>WW</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>All players gain 10 life.</text>
+    </card>
+    <card>
+      <name>Arcane Cultist</name>
+      <set rarity="mythic">ACN</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Phyrexian Human </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Arcane Cultist enters, you get {E}
+Pay EEE, Pay 3 life: Transform Arcane Cultist</text>
+      <related>Arcane Seeker</related>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>Arcane Seeker</name>
+      <set rarity="mythic">ACN</set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Creature - Phyrexian Drone </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, Reach, Lifelink</text>
+    </card>
+    <card>
+      <name>Metamorphosis</name>
+      <set rarity="mythic">ACN</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Metamorphosis enters, you get EE
+Enchant creature
+When enchanted creature dies, if it wasn’t sacrificed you may search your library for a creature card that shares a creature type with the enchanted creature and exile it. Until the end of the game, you may cast the exiled card by paying {E} equal to it’s mana value.</text>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>Beast Within</name>
+      <set rarity="uncommon">ACN</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target permanent. Its controller creates a 3/3 green Beast creature token.</text>
+      <related count="1">Beast Token</related>
+    </card>
+    <card>
+      <name>Lost in the Psyche</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>U/R</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Whenever enchanted creature attacks, blocks, or has an ability activated, Lost in the Psyche deals 2 damage to enchanted creature’s controller.</text>
+    </card>
+    <card>
+      <name>Color Outside The Lines</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Until end of turn, if a player would draw a card, they draw two cards instead.</text>
+    </card>
+    <card>
+      <name>Pull the Pin</name>
+      <set rarity="uncommon">ACN</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature you control and target creature you don’t control.</text>
+      <related count="1">A_treasure</related>
+      <related count="1">A_food</related>
+      <related count="1">A_clue</related>
+    </card>
+    <card>
+      <name>Noxian Chains</name>
+      <set rarity="uncommon">ACN</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature has first strike, reach, and +2/+0.
+Equip {2}</text>
+    </card>
+    <card>
+      <name>Painful Shield</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Gain life equal to target attacking creature’s power. Then if the target creature is blocked, it deals damage to itself equal to its power.</text>
+    </card>
+    <card>
+      <name>Balloon of Unity</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Suspend 2—{3}
+Flying
+Whenever Balloon of Unity attacks, you may deal 3 damage to any target or create a tapped colorless land token named Firelight Tree that is every basic land type.
+Crew 3</text>
+      <related count="1">Firelight Tree</related>
+    </card>
+    <card>
+      <name>The Monster at the Gates</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Until your next upkeep, creatures can’t attack you unless their controller pays {3} for each creature they control that’s attacking you.</text>
+    </card>
+    <card>
+      <name>Warwick, The Awakened</name>
+      <set rarity="mythic">ACN</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Phyrexian Beast </type>
+        <maintype>Creature</maintype>
+        <pt>5/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Toxic 2, Trample (Players dealt combat damage by this creature also get two poison counters.)
+Whenever Warwick, The Awakened deals combat damage to a creature, the damaged creature becomes a Phyrexian Drone with power and toughness 1. It loses all other abilities.</text>
+    </card>
+    <card>
+      <name>Warding Stones</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever an opponent gains energy, Warding Stones deals 1 damage to them.
+{1}, {T}: You and target opponent get {E}.</text>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>Obliterate The Chains</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>2G/W</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one–
+• Destroy all Auras
+• Target creature explores three times</text>
+    </card>
+    <card>
+      <name>The God Unascended</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1U/BU/B</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature an opponent controls dies, put a Godhood counter on target creature, then you may transform The God Unascended.</text>
+      <related count="1">The God Ascended</related>
+    </card>
+    <card>
+      <name>The God Ascended</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Creatures you control with a Godhood counter on them get +2/+2.
+Creatures you control with three Godhood counters on them get vigilance and first strike.
+Creatures you control with five Godhood counters on them get flying.
+Creatures you control with seven Godhood counters on them get indestructible and “{T}: Create a Priest of the Arcane creature token.”</text>
+      <related count="1">Priest of the Arcane</related>
+    </card>
+    <card>
+      <name>Try Again</name>
+      <set rarity="uncommon">ACN</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return all creature cards from your graveyard that entered your graveyard this turn to the battlefield. Ignore cards that were put in your graveyard due to effects or spells you controlled.</text>
+    </card>
+    <card>
+      <name>Peel Away the Facade</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant Creature
+When Peel Away the Facade enters, transform enchanted creature into a human creature with base power and toughness 1/1 with indestructible and “On your upkeep, lose 3 life and scry 2”</text>
+    </card>
+    <card>
+      <name>Fix Your Mistakes</name>
+      <set rarity="uncommon">ACN</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose up to one creature card in your graveyard. You get EEEE. Then you may pay an amount of {E} equal to that card’s mana value. If you do, return it from your graveyard to the battlefield with a finality counter.</text>
+    </card>
+    <card>
+      <name>Realm of Souls</name>
+      <set rarity="mythic">ACN</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}
+Whenever one or more creatures you control transforms or enters transformed, scry 1</text>
+    </card>
+    <card>
+      <name>Z Drive</name>
+      <set rarity="mythic">ACN</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Z Drive enters, you get EEE
+{T}, Pay {E}: Return target spell you control to its owner’s hand. Add an amount of {C} equal to that spell’s mana value.</text>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>Glorious Evolution</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>5U/BU/B</manacost>
+        <cmc>7</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Transform all permanents. Then destroy all nonland permanents that were not transformed this way.</text>
+    </card>
+    <card>
+      <name>The Gray</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>BR</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant opponent
+Whenever enchanted opponent spends three or more mana at once, they lose 1 life.</text>
+    </card>
+    <card>
+      <name>Poisonous Inquisition</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>UUB</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw a card. Gain EE. Until your next endstep whenever target opponent taps a land, they lose 1 life.</text>
+      <related>A_treasure</related>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>Vastaya Informer</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Cat Human </type>
+        <maintype>Creature</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vastaya Informer can’t attack or block.
+When Vastaya Informer enters, you get {E} and target opponent gains control of Vastaya Informer.
+The owner of Vastaya Informer may look at the hand of the controller of Vastaya Informer at any time.</text>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>Funeral Procession</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Cast this spell only if a creature you control died this turn.
+Creatures can’t attack you until your next upkeep.
+Flashback 1W (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Ekko, The Firelight</name>
+      <set rarity="mythic">ACN</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>3GU</manacost>
+        <cmc>5</cmc>
+        <type>Planeswalker - Ekko </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>6</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+2: +1: -2: -14: </text>
+    </card>
+    <card>
+      <name>Viktor, God of Evolution</name>
+      <set rarity="mythic">ACN</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Planeswalker - Viktor </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>10</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1: -2: -16: </text>
+      <related count="1">Priest of the Arcane</related>
+      <related count="1">Viktor, The Herald</related>
+    </card>
+    <card>
+      <name>Vi, Angry Oil Slick</name>
+      <set rarity="mythic">ACN</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>2RW</manacost>
+        <cmc>4</cmc>
+        <type>Planeswalker - Vi </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>5</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1: -3: -9: </text>
+    </card>
+    <card>
+      <name>Caitlyn, Dictator</name>
+      <set rarity="mythic">ACN</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Planeswalker - Caitlyn </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>1</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>0: -2: -10: </text>
+    </card>
+    <card>
+      <name>Ambessa, Warmonger</name>
+      <set rarity="mythic">ACN</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Planeswalker - Ambessa </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>2</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>0: -1: -10: </text>
+      <related count="1">Noxian Soldier</related>
+      <related count="3"> A_treasure</related>
+    </card>
+    <card>
+      <name>Jayce, Defender of Tomorrow</name>
+      <set rarity="mythic">ACN</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>2U/RU/R</manacost>
+        <cmc>4</cmc>
+        <type>Planeswalker - Jayce </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+2: -1: -8: </text>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>Heimerdinger, Scientific Minstrel</name>
+      <set rarity="mythic">ACN</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>4WU</manacost>
+        <cmc>6</cmc>
+        <type>Planeswalker - Heimerdinger </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1: -1: -10: </text>
+      <related count="1">Jinx Bomb</related>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>Mel, Shield of Duty</name>
+      <set rarity="mythic">ACN</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>2WB</manacost>
+        <cmc>4</cmc>
+        <type>Planeswalker - Mel </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1: -2: -2: -2: </text>
+    </card>
+    <card>
+      <name>Jinx, Hero of Zaun</name>
+      <set rarity="mythic">ACN</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>3UR</manacost>
+        <cmc>5</cmc>
+        <type>Planeswalker - Jinx </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>8</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>-2: -3: -1: -14: </text>
+      <related count="3">Jinx Bomb</related>
+      <related count="1">A_treasure</related>
+    </card>
+    <card>
+      <name>Necklace of the Black Rose</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1R/W</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature has vigilance and Double strike.
+Equip {2}
+Equip Wizard {0}</text>
+    </card>
+    <card>
+      <name>Viktor, The Herald</name>
+      <set rarity="mythic">ACN</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{2}, {T}: Create a Priest of the Arcane creature token.
+At the beginning of your postcombat main phase, if 4 or more permanents have transformed and/or entered transformed this turn, you may exile Viktor, The Herald and return him transformed.</text>
+      <related count="1">Priest of the Arcane</related>
+      <related count="1">Viktor, God of Evolution</related>
+    </card>
+    <card>
+      <name>Firelight</name>
+      <set rarity="common">ACN</set>
+      <prop>
+        <colors>G</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Firelight gets +1/+1 for each land you control.</text>
+    </card>
+    <card>
+      <name>Noxian Soldier</name>
+      <set rarity="common">ACN</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token Creature - Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike</text>
+    </card>
+    <card>
+      <name>What Could Have Been</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature. Put 4 time counters on it. It gains suspend and “Whenever a time counter is removed from this card, you get {E}”</text>
+      <related>Energy Reserve</related>
+    </card>
+    <card>
+      <name>What Cannot Be</name>
+      <set rarity="rare">ACN</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a permanent transforms or enters transformed, put a corruption counter on What Cannot Be.
+{2}: Put a corruption counter on What Cannot Be.
+Whenever What Cannot Be has 6 or more corruption counters on it, exile all nonland permanents.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+
+  </cards>
+</cockatrice_carddatabase>

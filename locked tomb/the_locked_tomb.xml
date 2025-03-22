@@ -1,0 +1,966 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>TLT</name>
+      <longname>The Locked Tomb</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Herald</name>
+      <set rarity="common">TLT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token Creature - Eldrazi Spawn </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+Herald can’t be blocked by more than one creature.</text>
+    </card>
+    <card>
+      <name>Treasure_LT</name>
+      <set rarity="common">TLT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Artifact Token - Treasure </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice this artifact: Add one mana of any color to your mana pool.</text>
+    </card>
+    <card>
+      <name>Lyctorhood</name>
+      <set rarity="rare">TLT</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1WB</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+When Lyctorhood enters, exile target creature you control.
+Enchanted creature gains all abilities of card exiled with Lyctorhood.</text>
+    </card>
+    <card>
+      <name>Revenant</name>
+      <set rarity="uncommon">TLT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>BB</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+When enchanted creature dies, return it to the battlefield under your control on the next endstep.</text>
+    </card>
+    <card>
+      <name>Skeleton</name>
+      <set rarity="uncommon">TLT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Skeleton </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>BB: Return Skeleton to the battlefield from the graveyard</text>
+    </card>
+    <card>
+      <name>Harrowhark, Saint of Fidelity</name>
+      <set rarity="common">TLT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Creature - Lyctor </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Skeletons you control gain +1/+1
+Whenever one or more creature cards leave your graveyard, create a 2/2 black Skeleton Minion creature token.
+1BB, {T}, Exile target creature card from your graveyard: Create a black Skeleton Minion token copy of the exiled card. The token has decayed in addition to its other abilities.
+Partners with Gideon Nav, Fidelity</text>
+      <related count="1">Skeleton Minion</related>
+      <related count="1">Skeleton Copy</related>
+    </card>
+    <card>
+      <name>Skeleton Minion</name>
+      <set rarity="common">TLT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token Creature - Skeleton Minion </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Skeleton Copy</name>
+      <set rarity="common">TLT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token Creature - Skeleton Minion </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This token can be used to represent a copy of a permanent.</text>
+    </card>
+    <card>
+      <name>Nona, Puppy Enjoyer</name>
+      <set rarity="rare">TLT</set>
+      <prop>
+        <colors>UBG</colors>
+        <manacost>3U/BGG</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Creature - Human Child Eldrazi </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Dogs get +1/+5 and lifelink
+Whenever a player casts a spell, they may create a 1/1 white Dog creature token and lose 1 life.
+When Nona dies, you may sacrifice a nontoken creature. If you do, search your library for a card called “Earth” and place it on the battlefield transformed. Then shuffle your library.</text>
+      <related count="1">Noodles</related>
+    </card>
+    <card>
+      <name>Noodles</name>
+      <set rarity="common">TLT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token Creature - Dog </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Gideon Nav, Fidelity</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+Equipment abilities targeting Gideon Nav, Fidelity cost {2} less to activate.
+Partners with Harrowhark Nonagesimus, Saint of Fidelity</text>
+    </card>
+    <card>
+      <name>John</name>
+      <set rarity="rare">TLT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever John attacks each player mills 3. If they milled a creature card, they may create a 2/2 black Skeleton Minion creature token.
+Sacrifice 6 tokens: Return target permanent card from a graveyard to the battlefield under your control.</text>
+      <related count="1">Skeleton Minion</related>
+    </card>
+    <card>
+      <name>John Gaius, King Undying</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors>UBG</colors>
+        <manacost>3BG/U</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature</type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch, Trample, Toxic 2 (Players dealt combat damage by this creature also get two poison counters.)
+When John Gaius leaves the battlefield, if you control a creature named “Alecto the Ninth”, return John Gaius to the battlefield.</text>
+    </card>
+    <card>
+      <name>John Gaius, God</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors>UBG</colors>
+        <manacost>BBGGUU</manacost>
+        <cmc>6</cmc>
+        <type>Planeswalker - John </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>​+2: -3: -14: </text>
+      <related count="1">Food</related>
+      <related count="1">Clue</related>
+      <related count="1">Blood</related>
+    </card>
+    <card>
+      <name>Awake Remembrance of These Valiant Dead Kia Hua Ko Te Pai Snap Back to Reality Oops There Goes Gravity</name>
+      <set rarity="rare">TLT</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>3WB</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Human Specter </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch, Vigilance
+The Weight of History — When Awake Remembrance of These Valiant Dead Kia Hua Ko Te Pai Snap Back to Reality Oops There Goes Gravity enters each opponent must say Awake Remembrance of These Valiant Dead Kia Hua Ko Te Pai Snap Back to Reality Oops There Goes Gravity with their eyes closed. For each player that says it incorrectly, place two +1/+1 counters on Awake Remembrance of These Valiant Dead Kia Hua Ko Te Pai Snap Back to Reality Oops There Goes Gravity.</text>
+    </card>
+    <card>
+      <name>The River</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors>WUBRG</colors>
+        <manacost>WWUUBBRRGG</manacost>
+        <cmc>10</cmc>
+        <type> Legendary Enchantment - Universe </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When The River enters the battlefield, each player sacrifices all their creatures
+At the beginning of each upkeep, put target creature card from a graveyard onto the battlefield under your control. It gains haste until end of turn. If you don’t, lose the game.</text>
+    </card>
+    <card>
+      <name>The Resurrection</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BBB</manacost>
+        <cmc>7</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy all creatures
+For every three nontoken creatures you control that die this way, you may transform target permanant.</text>
+    </card>
+    <card>
+      <name>Pluto</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Land - Planet  </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Pluto enters tapped.
+{T}:Add {W} or {U}
+Sacrifice Pluto and a nontoken creature: Return Pluto to the battlefield transformed.
+Pluto can be your commander.</text>
+      <related>The First Beast</related>
+    </card>
+    <card>
+      <name>The First Beast</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Eldrazi Horror God </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Riverwalk (This creature can’t be blocked as long as defending player controls a River.)</text>
+    </card>
+    <card>
+      <name>Neptune</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Land - Planet </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Neptune enters tapped.
+{T}: Add {B} or {G}
+Sacrifice Neptune and 2 nontoken creatures: Return Neptune to the battlefield transformed.
+Neptune can be your commander.</text>
+      <related>The Second Beast</related>
+    </card>
+    <card>
+      <name>The Second Beast</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Eldrazi Horror God </type>
+        <maintype>Creature</maintype>
+        <pt>0/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Target creature gains trample and +4/+0 until end of turn.
+Pay 3 life: Untap The Second Beast. Activate only once a turn.
+BB,T: Create a 3/3 Herald black creature token with first strike and “Herald can’t be blocked by more than one creature.”</text>
+      <related count="1">Herald</related>
+    </card>
+    <card>
+      <name>Saturn</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Land - Planet </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Saturn enters tapped.
+{T}: Add {W} or {B}
+Sacrifice Saturn and 3 nontoken creatures: Return Saturn to the battlefield transformed.
+Saturn can be your commander.</text>
+      <related>The Third Beast</related>
+    </card>
+    <card>
+      <name>The Third Beast</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Eldrazi Horror God </type>
+        <maintype>Creature</maintype>
+        <pt>2/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+Whenever you gain life, place that many +1/+1 counters on The Third Beast.
+WW, {T}: Create a 3/3 Herald black creature token with first strike and “Herald can’t be blocked by more than one creature.”</text>
+      <related count="1">Herald</related>
+    </card>
+    <card>
+      <name>Mercury(TLT)</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Land - Planet </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Mercury enters tapped.
+{T}: Add {R} or {W}
+Sacrifice Mercury and 4 nontoken creatures: Return Mercury to the battlefield transformed.
+Mercury can be your commander.</text>
+      <related>The Fourth Beast</related>
+    </card>
+    <card>
+      <name>The Fourth Beast</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Eldrazi Horror God </type>
+        <maintype>Creature</maintype>
+        <pt>*/*</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+On your upkeep, create a Treasure token.
+The Fourth Beast’s power and toughness are each equal to the number of artifacts on the battlefield.</text>
+      <related count="1">Treasure_LT</related>
+    </card>
+    <card>
+      <name>Jupiter</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Land - Planet </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Jupiter enters tapped.
+{T}: Add {R} or {G}
+Sacrifice Jupiter and 5 nontoken creatures: Return Jupiter to the battlefield transformed.
+Jupiter can be your commander.</text>
+      <related>The Fifth Beast</related>
+    </card>
+    <card>
+      <name>The Fifth Beast</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Eldrazi Horror God </type>
+        <maintype>Creature</maintype>
+        <pt>2/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Industructable
+At the beginning of each combat, double the power and toughness of each creature you control until end of turn.
+RR, {T}: The Fifth Beast deals damage equal to its power to any target.</text>
+    </card>
+    <card>
+      <name>Venus</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Land - Planet </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Venus enters tapped.
+{T}: Add {B} or {R}
+Sacrifice Venus and 6 nontoken creatures: Return Venus to the battlefield transformed.
+Venus can be your commander.</text>
+      <related>The Sixth Beast</related>
+    </card>
+    <card>
+      <name>The Sixth Beast</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Eldrazi Horror God </type>
+        <maintype>Creature</maintype>
+        <pt>3/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace, Indestructible
+Whenever a player discards a card, you may create a Treasure token.
+Whenever The Sixth Beast attacks, each player discards a card. For each player who can’t, draw a card.</text>
+      <related count="1">Treasure_LT</related>
+    </card>
+    <card>
+      <name>Uranus</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Land - Planet </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Uranus enters tapped.
+{T}: Add {U} or {R}
+Sacrifice Uranus and 7 nontoken creatures: Return Uranus to the battlefield transformed.
+Uranus can be your commander.</text>
+      <related>The Seventh Beast</related>
+    </card>
+    <card>
+      <name>The Seventh Beast</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Eldrazi Horror God </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Prowess, Ward—Sacrifice a creature (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn. Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player sacrifices a creature.)
+Whenever you cast a nonpermanent spell, copy it. You may cast the copy without paying its mana cost.</text>
+    </card>
+    <card>
+      <name>Mars(TLT)</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Land - Planet </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Mars enters tapped.
+{T}: Add {G} or {W}
+Sacrifice Mars and 8 nontoken creatures: Return Mars to the battlefield transformed.
+Mars can be your commander.</text>
+      <related>The Eighth Beast</related>
+    </card>
+    <card>
+      <name>The Eighth Beast</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Eldrazi Horror God </type>
+        <maintype>Creature</maintype>
+        <pt>5/10</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, Double strike, Menace, Vigilance, Reach, Defender
+If a creature died this turn, The Eighth Beast doesn’t have defender.</text>
+    </card>
+    <card>
+      <name>Earth(TLT)</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Land - Planet </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Earth enters tapped.
+{T}: Add {G}, {U}, or {B}
+Sacrifice Earth and 9 nontoken creatures: Return Earth to the battlefield transformed.
+Earth can be your commander.</text>
+      <related>Alecto the Ninth</related>
+    </card>
+    <card>
+      <name>Alecto the Ninth</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors>UBG</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Eldrazi Horror God </type>
+        <maintype>Creature</maintype>
+        <pt>*/*</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Indestructible, Annihilator 2, Riverwalk (This creature can’t be blocked as long as defending player controls a River.)
+Partner with John Gaius, King Undying
+When Alecto the Ninth leaves the battlefield, if you control a creature named “John Gaius, King Undying”, return Alecto the Ninth to the battlefield.
+Alecto’s power and toughness are each equal to the number of lands in all graveyards.</text>
+    </card>
+    <card>
+      <name>Ianthe, Saint of Awe</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WWW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Lyctor </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you sacrifice a creature, place a +1/+1, lifelink, reach, deathtouch, trample, or vigilance counter on Ianthe.
+{T}, Remove 6 counters from Ianthe: Put an industructible or hexproof counter on Ianthe.
+Partners with Coronabeth, Awe</text>
+    </card>
+    <card>
+      <name>The Emperor&apos;s Hands</name>
+      <set rarity="rare">TLT</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>1WU</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Lyctors you control untap during each untap step
+Lyctors you control gain +0/+2</text>
+    </card>
+    <card>
+      <name>Dominicus</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors>WUBRG</colors>
+        <manacost>WUBRG</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Abilities that transform permanants you control cost {1} less sacrificed creature to activate
+When Dominicus enters the battlefield, you may search your library for up to three Planets and place them on the battlefield under your control.
+Dominicus can be your commander.</text>
+    </card>
+    <card>
+      <name>Augustine, Saint of Patience</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WWW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Lyctor </type>
+        <maintype>Creature</maintype>
+        <pt>4/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may phase out Augustine at any time.
+Partners with Alfred Quinque, Patience (When this creature enters, target player may put Alfred Quinque into their hand from their library, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Alfred Quinque, Patience</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you phase out one or more permanents, you may draw a card.
+Partners with Augustine, Saint of Patience (When this creature enters, target player may put Augustine into their hand from their library, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Mercymorn, Saint of Joy</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UUU</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Lyctor </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Mercymorn, Saint of Joy has all activated abilities of creatures that don’t have the same name as this creature.
+Partners with Cristabel Oct, Joy (When this creature enters, target player may put Cristabel Oct into their hand from their library, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Cristabel Oct, Joy</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Abilities you activate that aren’t mana abilities cost {1} less to activate.
+Partners with Mercymorn, Saint of Joy (When this creature enters, target player may put Mercymorn into their hand from their library, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Pyrrha Dve, Duty</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sacrifice a creature you control: Add {W}
+Partners with Gideon, Saint of Duty (When this creature enters, target player may put Gideon into their hand from their library, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Gideon, Saint of Duty</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BBB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Lyctor </type>
+        <maintype>Creature</maintype>
+        <pt>5/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a nontoken creature you control dies, you may pay WW. If you do, destroy target creature.
+Partners with Pyrrha Dve, Duty (When this creature enters, target player may put Pyrrha Dve into their hand from their library, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Cassiopeia, Saint of Performance</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GGG</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Lyctor </type>
+        <maintype>Creature</maintype>
+        <pt>5/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+{2}, {T}: Choose a color. Add to your mana pool an amount of mana of that color equal to your devotion to that color.  (Each that in the mana costs of permanents you control counts toward your devotion to that.)
+Partners with Nigella Shodash, Performance (When this creature enters, target player may put Nigella Shodash into their hand from their library, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Nigella Shodash, Performance</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a player taps a land for mana, that player adds one mana of any type that land produced.
+Partners with Cassiopeia, Saint of Performance (When this creature enters, target player may put Cassiopeia into their hand from their library, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Titania Tetra, Death</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a nontoken creature you control dies, create a tapped Food token.
+Partners with Ulysses, Saint of Death (When this creature enters, target player may put Ulysses into their hand from their library, then shuffle.)</text>
+      <related count="1">Food</related>
+    </card>
+    <card>
+      <name>Ulysses, Saint of Death</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BBB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Lyctor </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may cast creature spells from your graveyard. When you do, you must sacrifice 2 food tokens as an additional cost.
+Partners with Titania Tetra, Death (When this creature enters, target player may put Titania Tetra into their hand from their library, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Loveday Heptane, Sacrifice</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Creatures you control with decayed or a decayed counter on them have +2/+2 (It can’t block. When it attacks, sacrifice it at end of combat.)
+Partners with Cytherea, Saint of Sacrifice (When this creature enters, target player may put Cytherea into their hand from their library, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Cytherea, Saint of Sacrifice</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BBB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Lyctor </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+{T}: Put a decayed counter on target creature (It can’t block. When it attacks, sacrifice it at end of combat.)
+Whenever a creature you control with a decayed counter on it dies, return that card to the battlefield under your control.
+Partners with Loveday Heptane, Sacrifice</text>
+    </card>
+    <card>
+      <name>Cyrus, Saint of Art</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RRR</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Lyctor </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Creatures have haste.
+Creatures you control have first strike.
+Partners with Valancy Trinit, Art (When this creature enters, target player may put Valancy Trinit into their hand from their library, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Valancy Trinit, Art</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Creatures you control have vigilance.
+Partners with Cyrus, Saint of Art (When this creature enters, target player may put Cyrus into their hand from their library, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Samael Novenary, Lies</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Legendary Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a +1/+1 counter is placed on a creature you control you may place a +1/+1 counter on Samael Novenary, Lies. This ability triggers only once each turn.
+Partners with Anastasia, Saint of Lies (When this creature enters, target player may put Anastasia into their hand from their library, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Anastasia, Saint of Lies</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Legendary Creature - Lyctor </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Training (Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)
+Partners with Samael Novenary, Lies (When this creature enters, target player may put Samael Novenary into their hand from their library, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Camilla, Eternal Protector</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>0/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a creature you control is targeted, you may have Camilla, Eternal Protector be targeted instead.
+WWW: Camilla, Eternal Protector gains hexproof until end of turn.
+(Melds with Palamedes, Eternal Scholar)</text>
+    </card>
+    <card>
+      <name>Palamedes, Eternal Scholar</name>
+      <set rarity="rare">TLT</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>4UR</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Creature - Wizard Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>3/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever an opponent draws a card, you may draw a card or deal 2 damage to any target.
+Big S’plosion — When Palamedes is sacrificed, deal 10 damage to any target. If you control a creature named “Camilla, Eternal Protector”, exile it and Palamedes, then meld them into Paul, Unified Soul.
+Partners with Camilla, Eternal Protector</text>
+    </card>
+    <card>
+      <name>Paul, Unified Soul</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors>WUR</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Lyctor </type>
+        <maintype>Creature</maintype>
+        <pt>8/10</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, First strike
+Whenever a player draws cards, they draw double that many cards instead.
+Whenever an opponent draws a card, you may deal 2 damage to any target.
+Whenever you draw a card, gain 2 life and target creature you control gains hexproof until end of turn.</text>
+    </card>
+    <card>
+      <name>Coronabeth, Awe</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Rebel </type>
+        <maintype>Creature</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you sacrifice a nontoken creature, create a token copy of the sacrificed creature.
+Partners with Ianthe, Saint of Awe</text>
+    </card>
+    <card>
+      <name>Matthias Nonius, The Sword</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Legendar Creature - Demigod Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Matthias Nonius, The Sword gains +X/+X where X is equal to your devotion to black.</text>
+    </card>
+    <card>
+      <name>Ortus the Ninth</name>
+      <set rarity="mythic">TLT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>BBB</manacost>
+        <cmc>3</cmc>
+        <type>Legendar Creature - Human Performer </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cheer on — Whenever a creature you control attacks alone, it gains +1/+1. If it’s a warrior it also gains first strike.</text>
+    </card>
+    <card>
+      <name>Drag into The River</name>
+      <set rarity="rare">TLT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target nontoken creature you control. Exile target creature.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+
+  </cards>
+</cockatrice_carddatabase>

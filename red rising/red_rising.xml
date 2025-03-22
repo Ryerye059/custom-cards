@@ -1,0 +1,1893 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>RRS</name>
+      <longname>Red Rising</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Darrow of Lykos</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>WRG</colors>
+        <manacost>1GW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Red Peasant Rebel </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Darrow of Lykos dies, you may pay RRR. If you do, return him to the battlefield transformed under your control.
+1R, {T}: Create two Treasure tokens.</text>
+      <related count="2">Treasure_RR</related>
+      <related>The Reaper</related>
+    </card>
+    <card>
+      <name>The Reaper</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Red Gold Warrior God </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Indestructible, Double strike
+If The Reaper would be targeted, you may choose a creature you control to be targeted instead.
+The Reaper gets +1/+1 for each creature you control with a unique creature type (A type that hasn’t been chosen for this effect yet)
+“I am the Reaper and death is my shadow”</text>
+    </card>
+    <card>
+      <name>Mustang, Devious Planner</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>WRG</colors>
+        <manacost>RRWW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Gold Noble </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+When Mustang, Devious Planner enters, if you cast it, you and permanents you control gain protection from everything until your next turn.
+Whenever a nontoken creature you control dies, you may transform Mustang, Devious Planner.
+1GG, {T}: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+      <related>Virginia au Augustus</related>
+    </card>
+    <card>
+      <name>Virginia au Augustus</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Gold Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Permanents you control have ward {2} and +0/+3. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)</text>
+    </card>
+    <card>
+      <name>Lorn au Arcos</name>
+      <set rarity="rare">RRS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Enchantment Creature - Gold  Knight </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike, Deathtouch
+On your upkeep, place a bounty counter on target creature.
+Whenever Lorn au Arcos deals combat damage to a player, destroy all creatures they control with bounty counters on them.
+Impending 3—WW (If you cast this spell for its impending cost, it enters with three time counters and isn’t a creature until the last is removed. At the beginning of your end step, remove a time counter from it.)</text>
+    </card>
+    <card>
+      <name>The Howlers</name>
+      <set rarity="rare">RRS</set>
+      <prop>
+        <colors>WUR</colors>
+        <manacost>UURRWW</manacost>
+        <cmc>6</cmc>
+        <type>Kindred Sorcery - Red Gold Obsidian Blue Gray </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose five. You may choose the same mode more than once.
+• Create a 2/1 Red rogue colorless creature token with first strike.
+• Create a 2/2 Gold rogue colorless creature token with vigilance.
+• Create a 4/1 Obsidian rogue colorless creature token with deathtouch. Lose 2 life.
+• Create a 1/2 Blue rogue colorless creature token. Scry 2.
+• Create a 1/2 Gray rogue colorless creature token with double strike.</text>
+      <related count="1">Peerless Scarred</related>
+      <related count="1">Son of Ares</related>
+      <related count="1">Stained</related>
+      <related count="1">RipWing Pilot</related>
+      <related count="1">Lurcher Token</related>
+    </card>
+    <card>
+      <name>The Morningstar</name>
+      <set rarity="rare">RRS</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RRWW</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flying
+Crew 10
+The Morningstar can only be blocked by creatures with flying.
+The Morningstar can only be crewed by creatures with unique creature types. (A type that hasn’t been chosen for this effect yet)
+When The Morningstar deals damage to an opponent, gain control of target artifact or creature they control.</text>
+    </card>
+    <card>
+      <name>The Carving</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>BBB</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice a nontoken creature.
+Search your library for a creature card that shares a creature type what the sacrificed creature and exile it. You may cast it by paying life equal to its mana value rather than pay its mana cost.</text>
+    </card>
+    <card>
+      <name>ClawDrill</name>
+      <set rarity="uncommon">RRS</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>RRG</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>ClawDrill can only be crewed by Reds.
+Crew 4
+When ClawDrill deals damage to an opponent, create two Treasure tokens. You may sacrifice a creature that crewed it this turn. If you do, search your library for a basic land card, reveal it, and put it into your hand. Shuffle your library.</text>
+      <related count="2">Treasure_RR</related>
+    </card>
+    <card>
+      <name>Orion xe Aquarii</name>
+      <set rarity="rare">RRS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Blue Rogue Pilot </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Orion xe Aquarii enters, create a 1/1 bird creature token.
+Orion xe Aquarii crews Vehicles as though her power were 4 greater.</text>
+      <related count="1">Bird</related>
+    </card>
+    <card>
+      <name>Colloway xe Char</name>
+      <set rarity="rare">RRS</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>RW</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Blue Rogue Pilot </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vehicles crewed with Colloway xe Char have first strike and trample.</text>
+    </card>
+    <card>
+      <name>Victra au Julii</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>2RG</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Gold Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+When you cast Victra au Julii, pay up to {X}, where X is the amount of creatures you control with a unique creature type. Create X tapped Treasure tokens. (A type that hasn’t been chosen for this effect yet)</text>
+      <related count="x">Treasure_RR</related>
+    </card>
+    <card>
+      <name>Sevro au Barca</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RRW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Red Gold Bezerker Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sevro au Barca can’t be blocked by creatures with power 3 or greater.
+If Sevro au Barca would deal damage to a creature, exile it instead.
+When Sevro deals damage to an opponent, create a Treasure token for each other creature you control that attacked this turn with a unique creature type. (A type that hasn’t been chosen for this effect yet)
+Reaper’s Shadow — {T}: Sevro deals 1 damage to any target. Place a stun counter on him.</text>
+      <related count="x">Treasure_RR</related>
+    </card>
+    <card>
+      <name>Holiday ti Nakamura</name>
+      <set rarity="rare">RRS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Gray Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sniper Shot — {T}: Holiday ti Nakamura deals 1 damage to target creature. Holiday ti Nakamura deals an additional 2 damage if that creature is Gold.</text>
+    </card>
+    <card>
+      <name>Cyther, Artificer Extraordinar</name>
+      <set rarity="rare">RRS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Orange Rogue Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Artifact spells you cast cost {1} less to cast.</text>
+    </card>
+    <card>
+      <name>Alexander au Arcos</name>
+      <set rarity="rare">RRS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Gold Noble Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+Never Bow — Exile Alexander: Up to 3 creatures you control gain protection from a color of your choice. If those creatures all have unique creature types, return Alexander to the battlefield on your next endstep.</text>
+    </card>
+    <card>
+      <name>Rhonna of Lykos</name>
+      <set rarity="rare">RRS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Red Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Equip abilities targeting Rhonna of Lykos cost {2} less to activate. This can’t reduce a cost to below {1}.
+Rhonna of Lykos gets +2/+1 if you control another Red.</text>
+    </card>
+    <card>
+      <name>Screwface, Double Agent</name>
+      <set rarity="rare">RRS</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Gold  Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{0}: Screwface, Double Agent is no longer a rogue and becomes a noble. You may look at target opponent’s hand. Activate only if Screwface, Double Agent is a rogue.</text>
+    </card>
+    <card>
+      <name>Pebble, Howl of the Pack</name>
+      <set rarity="rare">RRS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Gold  Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Foodfall — Whenever a Food enters under your control, add {G}.</text>
+    </card>
+    <card>
+      <name>Clown, Heart of the Pack</name>
+      <set rarity="rare">RRS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Gold  Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>0/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Artifact spells your opponents cast cost {1} more to cast.</text>
+    </card>
+    <card>
+      <name>The Den</name>
+      <set rarity="rare">RRS</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your your upkeep, create a 1/1 Red Rogue or Gold Rogue colorless creature token. If you control more than 8 different creatures with unique creature types, instead create both tokens. Then place a +1/+1 counter on each rogue you control. (A type that hasn’t been chosen for this effect yet)</text>
+      <related count="1">Red Protester</related>
+      <related count="1">Vitalized Pixie</related>
+    </card>
+    <card>
+      <name>Theodora, Weaver of Dreams</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>GWW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Pink Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Creature spells you cast cost {2} less to cast if they have a creature type that no creature on the battlefield shares.</text>
+    </card>
+    <card>
+      <name>Evey, Wingless Angel</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>RRW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Pink Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Evey, Wingless Angel leaves the battlefield, destroy target creature.
+When Evey deals combat damage to a player, place a shield counter on a creature you control. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)</text>
+    </card>
+    <card>
+      <name>Ares, God of Rage</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Enchantment Creature - Red  God </type>
+        <maintype>Creature</maintype>
+        <pt>6/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Indestructible
+As long as your devotion to red is less than five, Ares, God of Rage isn’t a creature.
+Other creatures you control have battle cry. (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)
+2R: Create a 2/1 Red rogue colorless creature token with first strike.</text>
+      <related count="1">Son of Ares</related>
+    </card>
+    <card>
+      <name>Fitchner au Barca</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Gold  Advisor Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+{W}, {T}: Put a training counter on target creature.  (Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)</text>
+    </card>
+    <card>
+      <name>Cassius Bellona</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GGG</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Gold Knight Deserter </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{0}: Cassius fights target creature you don’t control. Then unless you control 5 or more creatures with unique creature types, Cassius fights another target creature you control. (A type that hasn’t been chosen for this effect yet)</text>
+    </card>
+    <card>
+      <name>Tactus au Valii-Rath</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>WRG</colors>
+        <manacost>2RGW</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Gold Barbarian Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>6/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Tactus au Valii-Rath gets +0/+1 for each other creature you control with a unique creature type (A type that hasn’t been chosen for this effect yet)</text>
+    </card>
+    <card>
+      <name>Ephraim, Shattered Heart</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Gray Mercenary Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Partners with Volga, Open Heart (When this creature enters, target player may put Volga into their hand from their library, then shuffle.)
+First strike
+When Ephraim enters, exile target creature until Ephraim leaves the battlefield.</text>
+    </card>
+    <card>
+      <name>Volga, Open Heart</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Obsidian Mercenary Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Partners with Ephraim, Shattered Heart (When this creature enters, target player may put Ephraim into their hand from their library, then shuffle.)
+When Volga enters, you may cast a card from exile without paying it’s mana cost.</text>
+    </card>
+    <card>
+      <name>Ragnar Volarus, Shield of Tinos</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>2GWW</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Obsidian Demigod Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>5/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever Ragnar Volarus, Shield of Tinos attacks, other creatures you control gain indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>Call of the Rising</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>WRG</colors>
+        <manacost>2R/WG/WR/G</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Non-shapeshifters you control get +1/+1 for each creature type they have.</text>
+    </card>
+    <card>
+      <name>Lyria of Lagalos</name>
+      <set rarity="common">RRS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Red Rebel Child </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Whenever Lyria of Lagalos attacks, create a Treasure token.
+If you control a Gold Knight without changeling, Lyria of Lagalos gets +4/+0. (This card is every creature type.)</text>
+      <related count="1">Treasure_RR</related>
+    </card>
+    <card>
+      <name>Kavax au Telemanus</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Gold Praetor </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)
+3W: Place a shield counter on target creature (If it would be dealt damage or destroyed, remove a shield counter from it instead.)</text>
+    </card>
+    <card>
+      <name>Pax au Telemanus</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Gold Hero Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+{R}, {T}: Target creature can’t block this turn.
+Noble Sacrifice — Sacrifice Pax au Telemanus: You and permanents you control gain protection from everything until your next turn.</text>
+      <related>Sophocles, Eternal Fox</related>
+    </card>
+    <card>
+      <name>Niobe au Telemanus</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Gold Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>0/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>On each upkeep, choose up to 3 creatures. Damage dealt to those creatures this turn is instead deal to Niobe.
+3R: Whenever Niobe au Telemanus is dealt damage this turn, instead deal that much damage to another creature.</text>
+      <related>Sophocles, Eternal Fox</related>
+    </card>
+    <card>
+      <name>Thraxa au Telemanus</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Gold Child </type>
+        <maintype>Creature</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Thraxa au Telemanus attacks, put a +1/+1 counter on her.
+4WW: Monstrosity 4 (If this creature isn’t monstrous, put four +1/+1 counters on it and it becomes monstrous.)
+If Thraxa is monstrous, she’s not a child, is a Warrior Flagbearer, and has vigilance.</text>
+    </card>
+    <card>
+      <name>Daxo au Telemanus</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>WRG</colors>
+        <manacost>1RGW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Gold Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>On your upkeep, sacrifice a Food or sacrifice Daxo.
+As Daxo enters, if you control the most creatures with unique creature types, then Daxo enters with an amount of +1/+1 counters equal to the amount of creatures with unique creature types you control. (A type that hasn’t been chosen for this effect yet)
+Remove two +1/+1 counters from Daxo: Create a Food token
+Whenever you sacrifice a food, put a +1/+1 counter on Daxo.</text>
+      <related count="1">Food_RR</related>
+    </card>
+    <card>
+      <name>Sophocles, Eternal Fox</name>
+      <set rarity="common">RRS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Fox Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>On your endstep, for every two creatures you control that didn’t attack this turn and didn’t enter this turn, create a tapped food token.
+Favored Pet (You can have two commanders if the other has “Telemanus” in the name.)</text>
+      <related count="x">Food_RR</related>
+    </card>
+    <card>
+      <name>Pax au Augustus</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>WW</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Red Gold Child </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>
+LEVEL 2
+2/2
+
+LEVEL 3-4
+4/3
+</text>
+    </card>
+    <card>
+      <name>Electra au Barca</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>RR</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Gold Child </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>
+LEVEL 1-2
+1/2
+
+LEVEL 3
+3/4
+</text>
+    </card>
+    <card>
+      <name>Mickey the Carver</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Violet Artificer Doctor </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a creature you control dies, you may sacrifice a land. If you do, exile a random creature card from your graveyard. You may cast the exiled card without paying its mana cost.
+You may play an additional land on each of your turns.</text>
+    </card>
+    <card>
+      <name>Quicksilver, Titan of Industry</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Silver Rebel Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Artifact spells you cast cost {2} less to cast.
+Rogues and rebels you control gain +0/+2 and ward {1}.</text>
+    </card>
+    <card>
+      <name>Sun Industry Sentinal</name>
+      <set rarity="uncommon">RRS</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Drone </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+If damage would be dealt to a creature you control, you may have the damage be dealt to Sun Industry Sentinal instead.</text>
+    </card>
+    <card>
+      <name>The Rising of Red</name>
+      <set rarity="common">RRS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>RRR</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+      <related count="x">Treasure_RR</related>
+    </card>
+    <card>
+      <name>Eo, Martyr</name>
+      <set rarity="rare">RRS</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>RRW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Red Peasant Rebel </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste, Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)
+When Eo, Martyr dies, you may cast a Gold creature spell without paying its mana cost.</text>
+    </card>
+    <card>
+      <name>Take up the Mantel</name>
+      <set rarity="uncommon">RRS</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1WB</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>The monarch sacrifices a creature.
+You become the monarch. (The monarch draws a card at the beginning of their end step. Whenever the monarch is dealt combat damage by a creature, its controller becomes the monarch.)</text>
+      <related count="1">The Monarch</related>
+    </card>
+    <card>
+      <name>Octavia Au Lune</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>WUB</colors>
+        <manacost>1WUU</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Gold Noble </type>
+        <maintype>Creature</maintype>
+        <pt>0/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Octavia Au Lune enters, you become the monarch.
+On your upkeep, create a 2/2 Gold creature token with vigilance. If you’re the monarch, you may instead create a token that’s a copy of another Gold creature you control, except the token isn’t legendary.
+1BB, Sacrifice a creature you control: Create a 5/2 Gold creature token with vigilance.</text>
+      <related count="1">Peerless Scarred</related>
+      <related count="1">Gold Praetor</related>
+      <related count="1">The Monarch</related>
+    </card>
+    <card>
+      <name>Silenius au Lune</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>WUB</colors>
+        <manacost>WWUUBB</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Creature - Gold Noble Hero </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Double strike
+When Silenius au Lune enters, if you cast it, destroy all humans. You may create a clue token for every two creatures destroyed this way.</text>
+      <related count="x">Clue_RR</related>
+    </card>
+    <card>
+      <name>Lysander au Lune</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>WUB</colors>
+        <manacost>XW</manacost>
+        <cmc>1</cmc>
+        <type>Legendary Creature - Gold Child </type>
+        <maintype>Creature</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Affinity for Golds (This spell costs {1} less to cast for each Gold you control.)
+Lysander au Lune enters with X growth counters on him.
+If Lysander au Lune has 10 or more growth counters on him, transform him.
+Whenever a Gold enters, place a growth counter on Lysander au Lune.</text>
+      <related>Lysander The Peacemaker</related>
+    </card>
+    <card>
+      <name>Lysander The Peacemaker</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Gold Child </type>
+        <maintype>Creature</maintype>
+        <pt>3/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Lysander The Peacemaker attacks, you may cast a creature from your hand without paying its mana cost. If you do, remove Lysander from combat and the creature you cast enters tapped and attacking the player Lysander was attacking.</text>
+    </card>
+    <card>
+      <name>Adrius au Augustus</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>1WU</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Gold Noble </type>
+        <maintype>Creature</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+{T}: You and target opponent create a clue token.
+BBB, Sacrifice three nontoken creatures you control: Transform Adrius au Augustus and become the monarch. Activate only if an opponent’s creature died this turn.</text>
+      <related count="1">Clue_RR</related>
+      <related count="1">The Jackel</related>
+      <related count="1">The Monarch</related>
+    </card>
+    <card>
+      <name>The Jackel</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Gold Horror </type>
+        <maintype>Creature</maintype>
+        <pt>0/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a creature you control dies, create a tapped Food token.
+If an opponent becomes the monarch, you may destroy all other creatures. If you do, transform The Jackel.</text>
+      <related count="1">Food_RR</related>
+    </card>
+    <card>
+      <name>Antonia au Severus</name>
+      <set rarity="rare">RRS</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Gold Coward </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Skulk (This creature can’t be blocked by creatures with greater power.)
+Whenever an opponent draws a card except the first one they draw in each of their draw steps, you may destroy target creature that opponent controls. If you do, sacrifice Antonia on the next endstep.</text>
+    </card>
+    <card>
+      <name>Nero au Augustus</name>
+      <set rarity="rare">RRS</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1WWB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Gold Noble Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Nero au Augustus enters, target opponent becomes the monarch.
+If you aren’t the monarch, Nero au Augustus has first strike and trample.</text>
+      <related count="1">The Monarch</related>
+    </card>
+    <card>
+      <name>Rhone ti Flavinus</name>
+      <set rarity="rare">RRS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BBB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Gray Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+If Rhone ti Flavinus deals combat damage to a creature, exile it.
+If you control two or more Golds, Rhone ti Flavinus gains +3/+0 and first strike.</text>
+    </card>
+    <card>
+      <name>False Promise</name>
+      <set rarity="rare">RRS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Kindred Sorcery - Gold </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>An opponent of your choice creates three tapped Treasure tokens.
+Destroy all artifacts target opponent controls. For each artifact destroyed this way, they lose 2 life.</text>
+      <related count="3">Treasure_RR</related>
+    </card>
+    <card>
+      <name>The Morning Throne</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>WUR</colors>
+        <manacost>3WU</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When The Morning Throne enters you become the monarch. (The monarch draws a card at the beginning of their end step. Whenever the monarch is dealt combat damage by a creature, its controller becomes the monarch.)
+Each upkeep draw a card if you are the monarch. Otherwise, create a 2/2 Gold colorless creature token with vigilance.</text>
+      <related count="1">Peerless Scarred</related>
+      <related count="1">The Monarch</related>
+    </card>
+    <card>
+      <name>The Pandemonium Chair</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When The Pandemonium Chair enters you become the monarch.
+At the beginning of your endstep, if you are the monarch, draw a card.
+At the beginning of your upkeep, place a time counter on target creature you control. 
+Creatures you control gain +X/-X where X is the amount of time counters on them</text>
+      <related count="1">The Monarch</related>
+    </card>
+    <card>
+      <name>The Conquering</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BBBB</manacost>
+        <cmc>5</cmc>
+        <type>Kindred Sorcery - Gold </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy all non-Gold creatures</text>
+    </card>
+    <card>
+      <name>The Lightbringer</name>
+      <set rarity="rare">RRS</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>UUBB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flying
+Crew 8
+The Lightbringer can only be blocked by creatures with flying.
+The Lightbringer can only be crewed by Gold creatures.
+When The Lightbringer deals damage to an opponent, destroy target artifact they control.</text>
+    </card>
+    <card>
+      <name>Karnus au Bellona</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>2UB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Gold Noble </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a Gold you control dies, place a bounty counter on target creature an opponent controls.
+Whenever a creature with a bounty counter on it dies, you may draw a card.</text>
+    </card>
+    <card>
+      <name>The Ash Lord</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Gold Praetor </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a vehicle crewed by The Ash Lord deals combat damage to an opponent, that opponent sacrifices a land.
+At the beginning of your endstep, sacrifice a land unless a vehicle crewed by The Ash Lord dealt combat damage to an opponent this turn.</text>
+    </card>
+    <card>
+      <name>Aja au Grimmus</name>
+      <set rarity="rare">RRS</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1WWBB</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Gold Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>If you are the monarch Aja au Grimmus has +0/+3 and vigilance.
+If you aren’t the monarch Aja au Grimmus has +3/+0 and menace.</text>
+    </card>
+    <card>
+      <name>Atalantia au Grimmus</name>
+      <set rarity="rare">RRS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Gold Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Atalantia au Grimmus enters, you become the monarch.
+Atalantia au Grimmus enters tapped.
+If you are the monarch Atalantia au Grimmus has +4/+0 and vigilance.</text>
+      <related count="1">The Monarch</related>
+    </card>
+    <card>
+      <name>Akari au Raa</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>WUB</colors>
+        <manacost>WWUUBB</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Creature - Gold Noble Hero </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Akari au Raa enters, if you cast him, you may cast a Gold spell from your hand without paying its mana cost. If you do, lose life equal to half of that spell’s mana value rounded down, draw a card and repeat this process.</text>
+    </card>
+    <card>
+      <name>Atlas au Raa</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>WUB</colors>
+        <manacost>WUB</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Gold Horror </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a creature you control deals combat damage to an opponent, you gain 2 life and you may draw a card. If you do, lose 3 life.
+Fear Never Dies — When Atlas au Raa dies, if it was a creature, return it to the battlefield under its owner’s control. It’s an enchantment.(It’s not a creature.)</text>
+    </card>
+    <card>
+      <name>Volsung Fá, Alfather&apos;s Servant</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BBB</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Creature - Obsidian Warrior Demigod </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+When Volsung Fá, Alfather’s Servant enters, you become the monarch.
+Volsung Fá, Alfather’s Servant can’t be blocked by creatures the monarch controls.
+Grand Deception — If Volsung Fá would die and has no -1/-1 counters on him, you may instead place three -1/-1 counters on him.</text>
+      <related count="1">The Monarch</related>
+    </card>
+    <card>
+      <name>Alia, Queen of the Ice</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>2WB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Obsidian  </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Golds you control have flying.
+Obsidians you control have menace.</text>
+    </card>
+    <card>
+      <name>Romulus au Raa</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1W/BW/B</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Gold Noble Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Burden of a Secret — When Romulus au Raa is sacrificed, creatures you control gain haste, first strike and +3/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Seraphina au Raa</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>UBBB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Gold Survivor </type>
+        <maintype>Creature</maintype>
+        <pt>6/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As an additional cost to cast Seraphina au Raa, pay 3 life.
+Haste
+When Seraphina enters, investigate.
+Ignorance is Bliss — When Seraphina is sacrificed, Seraphina deals 6 damage divided as you choose among one, two, or three targets.</text>
+      <related count="1">Clue_RR</related>
+    </card>
+    <card>
+      <name>Dido au Raa</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>2WB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Gold Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sacrifice a nontoken Gold you control, {T}: Creatures you control gain +X/+Y where X is the sacrifice creature’s power and Y is the sacrificed creature’s toughness.</text>
+    </card>
+    <card>
+      <name>Harmony, The Betrayer</name>
+      <set rarity="rare">RRS</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1WB</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Red Peasant Coward </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch, Toxic 2 (Players dealt combat damage by this creature also get two poison counters.)</text>
+    </card>
+    <card>
+      <name>Day of Red Doves</name>
+      <set rarity="rare">RRS</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>UUBB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Enchantment - Curse </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant Opponent
+Lifelink
+Whenever enchanted player draws a card, you may draw a card.
+Whenever enchanted player attacks you, Day of Red Doves deals 1 damage to each creature attacking you. </text>
+    </card>
+    <card>
+      <name>Praetorian</name>
+      <set rarity="rare">RRS</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>2WB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Gray Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>5/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Praetorian enters, place a bounty counter on target creature.
+{T}: Praetorian fights target creature with a bounty counter on it.</text>
+    </card>
+    <card>
+      <name>The Cell of L17L6363</name>
+      <set rarity="rare">RRS</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>WB</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Kyber, Hidden Shadow</name>
+      <set rarity="common">RRS</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1WB</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Gray Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Equipped creature has vigilance and protection from red and green. (This creature can’t be blocked, targeted, dealt damage, enchanted, or equipped by anything red and green.)
+Reconfigure WWW (WWW: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn’t a creature.)</text>
+    </card>
+    <card>
+      <name>Iron Rain</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
+        <type>Kindred Enchantment - Gold </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Creature spells you cast have cascade. (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)</text>
+    </card>
+    <card>
+      <name>The Rise of Luna</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Golds you control have vigilance.
+Obsidians you control have menace.
+Reds you control have haste.
+Blues you control have flying.
+Grays you control have deathtouch.</text>
+    </card>
+    <card>
+      <name>Diomedes au Raa</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WWW</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Gold Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>6/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Whenever Diomedes attacks, if you control more than 5 Golds, double his power and toughness until end of turn.
+Whenever Diomedes attacks, if you control more than 5 non-Gold creatures with unique creature types, create a nonlegendary copy of Diomedes. (A type that hasn’t been chosen for this effect yet)</text>
+    </card>
+    <card>
+      <name>The Pax Solaris</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant opponent
+On the enchanted player’s upkeep, you and the enchanted player choose one:
+• Create a 2/1 Red colorless creature token with first strike.
+• Create a 2/2 Gold colorless creature token with vigilance.
+• Create a 4/1 Obsidian colorless creature token with deathtouch. Lose 2 life.
+• Create a 1/2 Blue colorless creature token. Scry 2.
+• Create a 1/1 Pink colorless creature token. Goad target creature.</text>
+      <related count="1">Peerless Scarred</related>
+      <related count="1">Son of Ares</related>
+      <related count="1">Stained</related>
+      <related count="1">RipWing Pilot</related>
+      <related count="1">Rose</related>
+    </card>
+    <card>
+      <name>Storm God</name>
+      <set rarity="rare">RRS</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flying
+Crew 4
+Storm God can’t be blocked.
+Storm God can only be crewed by Blue creatures.
+When Storm God deals damage to an opponent, sacrifice a creature that crewed it this turn.</text>
+    </card>
+    <card>
+      <name>RipWing</name>
+      <set rarity="rare">RRS</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flying
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+    </card>
+    <card>
+      <name>Mars</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Land - Planet </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{2}, {T}: Create a Treasure token.
+Sacrifice a Treasure: The next creature that enters under your control gains haste until the end of the turn.</text>
+      <related count="1">Treasure_RR</related>
+    </card>
+    <card>
+      <name>Mercury</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>RR, {T}: Create a 1/1 Red colorless creature token.
+Whenever a Red you control dies, create a Treasure.</text>
+      <related count="1">Treasure_RR</related>
+    </card>
+    <card>
+      <name>Earth</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Land - Planet </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Whenever you tap another nonbasic land for mana, lose 1 life.
+{T}: Add three mana of any color.</text>
+    </card>
+    <card>
+      <name>Luna</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Moon </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Whenever you tap a nonbasic land for mana, lose 1 life and add {C}.</text>
+    </card>
+    <card>
+      <name>Io</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Desert Moon </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Io enters tapped.
+{T}: Add {G}
+{2}, {T}: Create a Food token.
+{6}, {T}: Create a Food token for each Food you control.</text>
+      <related count="1">Food_RR</related>
+      <related count="x"> Food_RR</related>
+    </card>
+    <card>
+      <name>Europa</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Moon </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Europa enters tapped.
+{T}: Add {U}
+{3}, {T}: Cloak a card from your hand. (To cloak a card, put it onto the battlefield face down as a 2/2 creature with ward {2}. Turn it face up any time for its mana cost if it’s a creature card.)</text>
+    </card>
+    <card>
+      <name>Burning Rhea</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Moon </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {R}. You lose 1 life
+When you’re life total is half of your starting life total or below, Burning Rhea transforms.</text>
+      <related>Glassed Rhea</related>
+    </card>
+    <card>
+      <name>The Fall of House Apollo</name>
+      <set rarity="rare">RRS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Battle - Siege </type>
+        <maintype>Battle</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it’s defeated, exile it, then cast it transformed.)
+After The Fall of House Apollo enters, the opponent protecting The Fall of House Apollo may draw up to two cards.</text>
+      <related>The Proctor&apos;s Deception</related>
+    </card>
+    <card>
+      <name>The Proctor&apos;s Deception</name>
+      <set rarity="rare">RRS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When The Proctor’s Deception enters, you may draw up to two cards.
+Creatures you control get menace and +2/+2.</text>
+      <related count="1">The Fall of House Apollo</related>
+    </card>
+    <card>
+      <name>The Triumph of Mars</name>
+      <set rarity="rare">RRS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may return a creature card from your graveyard to the battlefield.
+Exile target creature.</text>
+    </card>
+    <card>
+      <name>The Lion&apos;s Rain</name>
+      <set rarity="rare">RRS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Battle - Siege </type>
+        <maintype>Battle</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it’s defeated, exile it, then cast it transformed.)
+After The Lion’s Rain enters, the opponent protecting it may return a creature card from their graveyard to the battlefield.</text>
+      <related>The Triumph of Mars</related>
+    </card>
+    <card>
+      <name>The Battle of Illium</name>
+      <set rarity="rare">RRS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Battle - Siege </type>
+        <maintype>Battle</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it’s defeated, exile it, then cast it transformed.)
+After The Battle of Illium enters, the opponent protecting 
+The Battle of Illium may place a shield counter on a creature they control.</text>
+      <related>The Dying Poet</related>
+    </card>
+    <card>
+      <name>The Dying Poet</name>
+      <set rarity="rare">RRS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile up to 3 target creatures with counters on them.
+You may place a shield counter on up to two creatures you control. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)</text>
+    </card>
+    <card>
+      <name>Deepgrave, Mobile Prison</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1WB</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Islandwalk (That creature can’t be blocked as long as defending player controls an Island.)
+Whenever a creature an opponent controls dies due to a permanent you control or you, you may instead exile that creature until Deepgrave, Mobile Prison leaves the battlefield.
+Return a card exiled with Deepgrave, Mobile Prison to its owner’s graveyard: Deepgrave is a creature until end of turn. Activate only as a sorcery</text>
+    </card>
+    <card>
+      <name>Apollonius au Valii-Rath</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>2UB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Gold Warrior Performer </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Apollonius au Valii-Rath is dealt damage, create a Blood token. (It’s an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)
+Whenever Apollonius au Valii-Rath deals damage, create a Clue token.</text>
+      <related count="1">Clue_RR</related>
+      <related count="1">Blood_RR</related>
+    </card>
+    <card>
+      <name>Boneriders</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Gold Army </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever another creature dies, place a +1/+1 counter on each Gold you control.
+1BB: Amass Golds 1 (Create a +1/+1 counter on an Army you control. It’s also a Gold. If you don’t control an Army, create a 0/0 black Gold Army creature token first.)</text>
+    </card>
+    <card>
+      <name>Krypteia Venator</name>
+      <set rarity="rare">RRS</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>3WB</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Gold Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Desertwalk (This creature can’t be blocked as long as defending player controls a Desert.)
+Each nonbasic land is a Desert in addition to its other types.
+When Krypteia Venator deals combat damage to a player, that player exiles a card from their hand. You may play that card for as long as it remains exiled.</text>
+    </card>
+    <card>
+      <name>Stained</name>
+      <set rarity="rare">RRS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Obsidian Bezerker </type>
+        <maintype>Creature</maintype>
+        <pt>0/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{0}: Stained gets +1/-1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Martian Lurcher</name>
+      <set rarity="rare">RRS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Gray Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Martian Lurcher is blocked, Martian Lurcher deals 1 damage to each blocking creature defending player controls.</text>
+    </card>
+    <card>
+      <name>Lilath au Faran</name>
+      <set rarity="uncommon">RRS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Legendary Creature - Gold Horror Minion </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever an opponent draws a card except the first one they draw in each of their draw steps, Lilith deals 1 damage to them.</text>
+    </card>
+    <card>
+      <name>Cassius au Bellona, The Lost</name>
+      <set rarity="rare">RRS</set>
+      <prop>
+        <colors>WUBRG</colors>
+        <manacost>WUBRG</manacost>
+        <cmc>5</cmc>
+        <type>Planeswalker - Cassius </type>
+        <maintype>Planeswalker</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>​</text>
+      <related count="1">Peerless Scarred</related>
+    </card>
+    <card>
+      <name>RipWing</name>
+      <set rarity="common">RRS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flying
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+    </card>
+    <card>
+      <name>Treasure_RR</name>
+      <set rarity="common">RRS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token Artifact - Treasure </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice this artifact: Add one mana of any color to your mana pool.</text>
+    </card>
+    <card>
+      <name>Food_RR</name>
+      <set rarity="common">RRS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token Artifact - Food </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
+    </card>
+    <card>
+      <name>Clue_RR</name>
+      <set rarity="common">RRS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token Artifact - Clue </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, Sacrifice this artifact: Draw a card</text>
+    </card>
+    <card>
+      <name>Blood_RR</name>
+      <set rarity="common">RRS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token Artifact - Blood </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card</text>
+    </card>
+    <card>
+      <name>Son of Ares</name>
+      <set rarity="common">RRS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token Creature - Red Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike</text>
+    </card>
+    <card>
+      <name>Peerless Scarred</name>
+      <set rarity="common">RRS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token Creature - Gold Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance</text>
+    </card>
+    <card>
+      <name>Gold Praetor</name>
+      <set rarity="common">RRS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token Creature - Gold Praetor </type>
+        <maintype>Creature</maintype>
+        <pt>5/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance</text>
+    </card>
+    <card>
+      <name>Red Protester</name>
+      <set rarity="common">RRS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token Creature - Red Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Stained</name>
+      <set rarity="common">RRS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token Creature - Obsidian Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>4/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch</text>
+    </card>
+    <card>
+      <name>Lurcher Token</name>
+      <set rarity="common">RRS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token Creature - Gray Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Double strike</text>
+    </card>
+    <card>
+      <name>Rose</name>
+      <set rarity="common">RRS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token Creature - Pink Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Vitalized Pixie</name>
+      <set rarity="common">RRS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token Creature - Gold Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>RipWing Pilot</name>
+      <set rarity="common">RRS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token Creature - Blue Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Marbles, Hyper Nethead</name>
+      <set rarity="rare">RRS</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>1RG</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Green Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a land or a nontoken artifact enters under your control, add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Helldiver</name>
+      <set rarity="rare">RRS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Red Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike.
+Reds you control gain +2/+0.</text>
+    </card>
+    <card>
+      <name>Martian Miner</name>
+      <set rarity="uncommon">RRS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>RR</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Red Peasant </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste</text>
+    </card>
+    <card>
+      <name>Glassed Rhea</name>
+      <set rarity="mythic">RRS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Moon </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add CC.</text>
+    </card>
+    <card>
+      <name>Anointed Procession</name>
+      <set rarity="rare">RRS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+
+  </cards>
+</cockatrice_carddatabase>
