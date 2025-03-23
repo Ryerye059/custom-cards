@@ -22,7 +22,7 @@
       </prop>
       <tablerow>2</tablerow>
       <text>{2}, {T}: Copy target artifact spell.
-Whenever you untap Eta for the first time on each of your turns, create a token that’s a copy of target artifact that doesn’t have the same name as another artifact you control. </text>
+Whenever you untap Eta for the first time on each of your turns, create a tapped token that’s a copy of target artifact that doesn’t have the same name as another artifact you control. </text>
     </card>
 
     <!-->Tokens</-->
