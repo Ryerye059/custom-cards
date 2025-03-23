@@ -24,6 +24,162 @@
       <text>{2}, {T}: Copy target artifact spell.
 Whenever you untap Eta for the first time on each of your turns, create a tapped token that’s a copy of target artifact that doesn’t have the same name as another artifact you control. </text>
     </card>
+    <card>
+      <name>Eminence in Shadow</name>
+      <set rarity="mythic">ISK</set>
+      <prop>
+        <colors>UBR</colors>
+        <manacost>3UBR</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Eminence — As long as Shadow is in the command zone or on the battlefield, you can’t cast spells from your hand. Each nonland card in your hand has foretell. Its foretell cost is equal to its mana cost. 
+Double strike, Flying, Trample, Ward {2}
+When Shadow enters destroy all nonland permanents you control. Then if Shadow was cast from the command zone, for each nontoken creature destroyed this way, put a +1/+1 counter on Shadow, and for each nontoken, noncreature permanent destroyed this way, create a treasure token. </text>
+    </card>
+    <card>
+      <name>Alpha, Cold Leader</name>
+      <set rarity="mythic">ISK</set>
+      <prop>
+        <colors>UBR</colors>
+        <manacost>3UBR</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Creature - Elf Seven-Shadows </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike, Flying
+Whenever Alpha attacks, you may exile cards from the top of your library until you exile a Seven-Shadow’s card. You may put that card onto the battlefield tapped under your control. Put the rest back on the bottom of your library in a random order. </text>
+    </card>
+    <card>
+      <name>Beta, Plagarist Author</name>
+      <set rarity="rare">ISK</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Elf Seven-Shadows </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Beta enters, target opponent gains control of it.
+Beta can’t attack or block, and she can’t be sacrificed.
+At the beginning of your upkeep, exile the top two cards of your library face down, then draw a card and you lose 2 life.
+2UUBB: Gain control of Beta. Only Beta’s owner may activate this ability. 
+Betrayal — Whenever Beta’s owner gains control of Beta, they may play any number of cards from among cards exiled with Beta without paying their mana costs. Beta loses all abilities.</text>
+    </card>
+    <card>
+      <name>Gamma, Clumsy Capitalist</name>
+      <set rarity="rare">ISK</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1BR</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Elf Seven-Shadows </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{1}, Sacrifice another nontoken permanent: Target opponent may return the sacrificed permanent from a graveyard to the battlefield under their control. Create a number of tapped treasure tokens equal to 1 plus the number of permanents you own that your opponents control. Activate only as a sorcery.
+XXU: Gain control of target nonland permanent with mana value X or less. Spend only mana produced by Treasures to pay for X.</text>
+    </card>
+    <card>
+      <name>Delta, Savage Beast</name>
+      <set rarity="rare">ISK</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Creature - Dog  Seven-Shadows
+ </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste, Trample
+Whenever Delta deals combat damage to a player, she deals that much damage divided among any number of creatures that player controls. </text>
+    </card>
+    <card>
+      <name>Epsilon, Proud Musician</name>
+      <set rarity="rare">ISK</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>4UB</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Creature - Human Seven-Shadows </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch, First strike
+Whenever Epsilon deals combat damage to a player, gain control of target creature that player controls. If you own that creature, create a treasure token and draw a card. </text>
+    </card>
+    <card>
+      <name>Zeta, Wandering Scout</name>
+      <set rarity="rare">ISK</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>2UR</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Cat Seven-Shadows </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Whenever Zeta attacks, gain control of target creature until end of turn. When you gain control of a creature this way, tap it, it’s attacking, and can’t be sacrificed until end of turn.</text>
+    </card>
+    <card>
+      <name>666</name>
+      <set rarity="rare">ISK</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Rogue Knight </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you become the monarch, put a +1/+1 counter on 666.
+3U: If an opponent is the monarch, 666 deals damage to that player equal to her power. You become the monarch
+Betrayal - Whenever 666’s owner gains control of 666, they become the monarch. Then 666 deals damage equal to her power to any target.  </text>
+    </card>
+    <card>
+      <name>Skel Etal</name>
+      <set rarity="uncommon">ISK</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Human Peasant </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Flip a coin. You lose the flip.
+Whenever you lose a coin flip, put three stun counters on target land you control with no stun counters on it. If you do, create two treasure tokens.</text>
+    </card>
+    <card>
+      <name>Po Tato</name>
+      <set rarity="uncommon">ISK</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Human Peasant </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Skulk
+Whenever Po Tato deals combat damage to a player, you may look at their hand, face-down permanents they control, face-down cards they own in exile, and the top card of their library.</text>
+    </card>
 
     <!-->Tokens</-->
 
