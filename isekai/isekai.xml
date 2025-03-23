@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>ISK</name>
+      <longname>Isekai</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Eta, Sleepy Artificer</name>
+      <set rarity="rare">ISK</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Seven-Shadows </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{2}, {T}: Copy target artifact spell.
+Whenever you untap Eta for the first time on each of your turns, create a token that’s a copy of target artifact that doesn’t have the same name as another artifact you control. </text>
+    </card>
+
+    <!-->Tokens</-->
+
+
+  </cards>
+</cockatrice_carddatabase>
