@@ -39,6 +39,7 @@ Whenever you untap Eta for the first time on each of your turns, create a tapped
       <text>Eminence — As long as Shadow is in the command zone or on the battlefield, you can’t cast spells from your hand. Each nonland card in your hand has foretell. Its foretell cost is equal to its mana cost. 
 Double strike, Flying, Trample, Ward {2}
 When Shadow enters destroy all nonland permanents you control. Then if Shadow was cast from the command zone, for each nontoken creature destroyed this way, put a +1/+1 counter on Shadow, and for each nontoken, noncreature permanent destroyed this way, create a treasure token. </text>
+      <related count="x">Treasure Token</related>
     </card>
     <card>
       <name>Alpha, Cold Leader</name>
@@ -67,8 +68,8 @@ Whenever Alpha attacks, you may exile cards from the top of your library until y
         <pt>5/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Beta enters, target opponent gains control of it.
-Beta can’t attack or block, and she can’t be sacrificed.
+      <text>Secret Agent
+Beta can’t attack or block.
 At the beginning of your upkeep, exile the top two cards of your library face down, then draw a card and you lose 2 life.
 2UUBB: Gain control of Beta. Only Beta’s owner may activate this ability. 
 Betrayal — Whenever Beta’s owner gains control of Beta, they may play any number of cards from among cards exiled with Beta without paying their mana costs. Beta loses all abilities.</text>
@@ -87,6 +88,8 @@ Betrayal — Whenever Beta’s owner gains control of Beta, they may play any nu
       <tablerow>2</tablerow>
       <text>{1}, Sacrifice another nontoken permanent: Target opponent may return the sacrificed permanent from a graveyard to the battlefield under their control. Create a number of tapped treasure tokens equal to 1 plus the number of permanents you own that your opponents control. Activate only as a sorcery.
 XXU: Gain control of target nonland permanent with mana value X or less. Spend only mana produced by Treasures to pay for X.</text>
+      <related count="1">Treasure Token</related>
+      <related count="x">Treasure Token</related>
     </card>
     <card>
       <name>Delta, Savage Beast</name>
@@ -164,6 +167,7 @@ Betrayal - Whenever 666’s owner gains control of 666, they become the monarch.
       <tablerow>2</tablerow>
       <text>{T}: Flip a coin. You lose the flip.
 Whenever you lose a coin flip, put three stun counters on target land you control with no stun counters on it. If you do, create two treasure tokens.</text>
+      <related count="2">Treasure Token</related>
     </card>
     <card>
       <name>Po Tato</name>
@@ -180,9 +184,248 @@ Whenever you lose a coin flip, put three stun counters on target land you contro
       <text>Skulk
 Whenever Po Tato deals combat damage to a player, you may look at their hand, face-down permanents they control, face-down cards they own in exile, and the top card of their library.</text>
     </card>
+    <card>
+      <name>I Am Atomic</name>
+      <set rarity="rare">ISK</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>4UB</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile up to one target creature you own, then destroy all creatures. Return the exiled creature to the battlefield under your control at the beginning of the next end step. </text>
+    </card>
+    <card>
+      <name>Mitsugoshi Agent</name>
+      <set rarity="uncommon">ISK</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike, Secret Agent
+At the beginning of your upkeep create a treasure token, then Mitsugoshi Agent does damage to you equal to the number of artifacts you control.
+Betrayal - Whenever Mitsugoshi Agent’s owner gains control of it, they create a treasure token. Then this card deals damage to target player equal to the number of artifacts you control. Mitsugoshi Agent loses all abilities. </text>
+      <related>Treasure Token</related>
+    </card>
+    <card>
+      <name>Demon&apos;s Blood</name>
+      <set rarity="uncommon">ISK</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1BR</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice Demon’s Blood: Until end of turn, double target creature’s power and it gains first strike. Sacrifice it at the beginning of the next end step. </text>
+    </card>
+    <card>
+      <name>Shadowed Weapon</name>
+      <set rarity="rare">ISK</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+You may have Shadowed Weapon enter as a copy of any equipment on the battlefield, except it gains “Equipped creature gets +1/+1”, its name is Shadowed Weapon and has “When Shadowed Weapon enters, attach it to target creature you control.”</text>
+    </card>
+    <card>
+      <name>Crowbars, Unrivaled Weapon</name>
+      <set rarity="rare">ISK</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +2/+2 and menace.
+{3}: Crowbars gains “Equipped creature gets an additional +2/+2 and first strike.” Activate only once. 
+Equip {1}</text>
+    </card>
+    <card>
+      <name>The Black Rose</name>
+      <set rarity="rare">ISK</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>5BBB</manacost>
+        <cmc>8</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy all creatures. Then create a Legendary X/X Flying beast creature token named Ragnarok, where X is the total power of creatures destroyed this way.</text>
+      <related>Ragnarok</related>
+    </card>
+    <card>
+      <name>Alexia Midgar, Fencer Ordinaire</name>
+      <set rarity="rare">ISK</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1BR</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Knight </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Alexia Midgar attacks, you may sacrifice an artifact. If you do, draw a card. 
+Whenever you sacrifice an artifact then Alexia Midgar fights another target creature. This ability triggers only once each turn. </text>
+    </card>
+    <card>
+      <name>Sherry Barnett</name>
+      <set rarity="rare">ISK</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>3UR</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Artifacts you control have “Whenever this becomes tapped for the first time each turn, add one mana of any color.”
+XXUU: Create a copy of target nontoken artifact you control with mana value X. Use only mana produced by artifact sources to pay for this ability. </text>
+    </card>
+    <card>
+      <name>Sudden Betrayal</name>
+      <set rarity="rare">ISK</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each permanent you own but don’t control deals damage to its controller equal to its mana cost. Gain control of all permanents you own. </text>
+    </card>
+    <card>
+      <name>Cult of Diablos</name>
+      <set rarity="rare">ISK</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Create two treasure tokens.
+I, II — Cult of Diablos deals damage to up to one target creature equal to the number of artifacts you control.
+III — Create a 1/1 Human Noble creature token named Jack Nelson with “At the beginning of each upkeep, create a token that’s a copy of this creature.”</text>
+      <related>Jack Nelson</related>
+    </card>
+    <card>
+      <name>Mitsugoshi Investor</name>
+      <set rarity="uncommon">ISK</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters the battlefield, create a tapped treasure token. Then Mitsugoshi Investor deals damage to target player equal to the number of artifacts you control. </text>
+      <related>Treasure Token</related>
+    </card>
+    <card>
+      <name>Monument to the Shadows</name>
+      <set rarity="rare" splitterPath="/Monument to the Shadows.png" >ISK</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type> Legendary Artifact
+</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Create a 1/1 black Rogue creature token with skulk. (That creature can’t be blocked by creatures with greater power.)
+At the beginning of your upkeep, if you control three or more Rogues and/or Seven-Shadows creatures, transform Monument to the Shadows.
+---
+(Back): Ancient Alexandria</text>
+      <related attach="transform">Ancient Alexandria</related>
+      <related>Skulk Rogue</related>
+      <related count="x">Skulk Rogue</related>
+    </card>
+    <card>
+      <name>Ancient Alexandria</name>
+      <set rarity="rare" splitterPath="/Ancient Alexandria.png" >ISK</set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>4</cmc>
+        <type>Legendary Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {B}
+2B, {T}: Create X 1/1 black Rogue creature tokens with skulk, where X is the number of Rogues you control. (That creature can’t be blocked by creatures with greater power.)
+---
+(Front): Monument to the Shadows</text>
+      <related attach="transform">Monument to the Shadows</related>
+      <related>Skulk Rogue</related>
+      <related count="x">Skulk Rogue</related>
+    </card>
 
     <!-->Tokens</-->
 
+    <card>
+      <name>Jack Nelson</name>
+      <set>ISK</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Human Noble </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of each upkeep, create a token that’s a copy of this creature.</text>
+      <token>1</token>
+      <reverse-related>Cult of Diablos</reverse-related>
+    </card>
+    <card>
+      <name>Ragnarok</name>
+      <set>ISK</set>
+      <prop>
+        <colors></colors>
+        <type>Legendary Token Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>X/X</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Skulk Rogue</name>
+      <set>ISK</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
 
   </cards>
 </cockatrice_carddatabase>
