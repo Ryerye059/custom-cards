@@ -140,7 +140,7 @@ Vi gains +2/+1 for each equipment attached to her.</text>
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever you cast an instant or sorcery spell, you get EE.
+      <text>Whenever you cast an artifact spell, you get EE.
 {1}, {T}: Copy target activated or triggered ability you control from an artifact source. You may choose new targets for the copy.(Mana abilities can’t be targeted.)
 Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that ability. Hextech cannot be responded to.)</text>
       <related>Energy Reserve</related>
@@ -224,7 +224,7 @@ Hextech (Whenever an ability of this permanent is triggered/activated you may pa
         <pt>1/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever you cast an artifact spell, you get EE.
+      <text>Whenever you cast an instant or sorcery spell, you get EE.
 Whenever you gain energy, put a +1/+1 counter on Jayce, Industry Revolutionary.</text>
       <related>Energy Reserve</related>
     </card>
