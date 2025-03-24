@@ -1140,14 +1140,14 @@ Draw a card.</text>
       <set rarity="uncommon">ACN</set>
       <prop>
         <colors>W</colors>
-        <manacost>W</manacost>
-        <cmc>1</cmc>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>Demonstrate (When you cast this spell, you may copy it. If you do, choose an opponent to also copy it.)
-Each player may create a Food, Treasure, or Clue token. For each player that does, you get {E}.</text>
+Each player may create a Food, Treasure, or Clue token. For each opponent that does, you get {E}.</text>
       <related count="1">A_treasure</related>
       <related count="1">A_food</related>
       <related count="1">A_clue</related>
@@ -1243,23 +1243,22 @@ Pay EEEEE: Transform Scholarly Study</text>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Energy costs you pay cost {E} less to pay.
+      <text>Energy costs you pay cost {E} less to pay. This can’t reduce the cost to less than {E}.
 Artifact spells you cast cost {1} less to cast.</text>
     </card>
     <card>
       <name>Calcified Sacrifice</name>
       <set rarity="rare">ACN</set>
       <prop>
-        <colors>R</colors>
-        <manacost>2R</manacost>
+        <colors></colors>
+        <manacost>3</manacost>
         <cmc>3</cmc>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>When Calcified Sacrifice enters you get EEEEE.
-{T}, Pay EE: Calcified Sacrifice deals 3 damage to any target
-Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that ability. Hextech cannot be responded to.)</text>
+      <text>When Calcified Sacrifice enters you get EE.
+{T}, Sacrifice Calcified Sacrifice: You may pay up to EEEEEE. When you do, Search your library for up to half that many basic land cards, put them onto the battlefield tapped, then shuffle.</text>
       <related>Energy Reserve</related>
     </card>
     <card>
@@ -1458,7 +1457,7 @@ Pay EEE, Pay 3 life: Transform Arcane Cultist</text>
       <text>Vigilance, Reach, Lifelink</text>
     </card>
     <card>
-      <name>Metamorphosis</name>
+      <name>Evolution</name>
       <set rarity="mythic">ACN</set>
       <prop>
         <colors>B</colors>
@@ -1468,7 +1467,7 @@ Pay EEE, Pay 3 life: Transform Arcane Cultist</text>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>When Metamorphosis enters, you get EE
+      <text>When Evolution enters, you get EE
 Enchant creature
 When enchanted creature dies, if it wasn’t sacrificed you may search your library for a creature card that shares a creature type with the enchanted creature and exile it. Until the end of the game, you may cast the exiled card by paying {E} equal to it’s mana value.</text>
       <related>Energy Reserve</related>
@@ -1525,7 +1524,8 @@ Whenever enchanted creature attacks, blocks, or has an ability activated, Lost i
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Destroy target creature you control and target creature you don’t control.</text>
+      <text>As an additional cost to cast Pull the Pin, sacrifice a creature you control. 
+Destroy target creature you don’t control.</text>
       <related count="1">A_treasure</related>
       <related count="1">A_food</related>
       <related count="1">A_clue</related>
@@ -1946,8 +1946,8 @@ Flashback 1W (You may cast this card from your graveyard for its flashback cost.
       <set rarity="rare">ACN</set>
       <prop>
         <colors>WR</colors>
-        <manacost>1R/W</manacost>
-        <cmc>2</cmc>
+        <manacost>2R/W</manacost>
+        <cmc>3</cmc>
         <type>Legendary Artifact - Equipment </type>
         <maintype>Artifact</maintype>
       </prop>
