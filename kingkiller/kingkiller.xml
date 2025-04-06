@@ -188,7 +188,7 @@ Equip – Pay 2 life</text>
       <text>Gift a Treasure
 Whenever an opponent sacrifices a Treasure, you gain 2 life.
 When Devi enters, if the gift was promised, create a Powerstone token.
-Whenever a play casts an artifact spell, you and target opponent create a Treasure token.</text>
+Whenever a player casts an artifact spell, you and target opponent create a Treasure token.</text>
       <related count="1">Treasure</related>
       <related count="1">Powerstone</related>
     </card>
