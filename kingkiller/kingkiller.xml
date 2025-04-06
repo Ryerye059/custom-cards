@@ -42,7 +42,7 @@ LEVEL 2
       </prop>
       <tablerow>2</tablerow>
       <text>Spells you cast have “Gift a card” and “If the gift was promised, add one mana of any color.”. (You may promise an opponent a gift as you cast this spell. If you do, when it enters, they draw a card.)
-Whenever you give a gift, you may promise it to yourself and an opponent. If you do, the opponent gets the gift first.
+Whenever you give a gift, you may promise it to yourself and an opponent. If you do, the opponent receives the gift first.
 If Auri would be dealt damage, she phases out instead.</text>
     </card>
     <card>
@@ -122,7 +122,7 @@ On your endstep, exile target creature you control and return it to the battlefi
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Bast, The Prince of Twilight or another legendary creature enters the battlefield under your control, put two +1/+1 counters on Bast and deal 2 damage to target opponent.
+      <text>When Bast, The Prince of Twilight or another legendary creature enters the battlefield under your control, put a +1/+1 counter on Bast and deal 2 damage to target opponent.
 Whenever Bast attacks, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 1G: Bast gains trample until end of turn.</text>
     </card>
