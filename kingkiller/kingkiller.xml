@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>KKC</name>
+      <longname>Kingkiller Chronicles</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Kvothe, The Bloodless</name>
+      <set rarity="mythic">KKC</set>
+      <prop>
+        <colors>WURG</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Bard Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>
+LEVEL 1
+3/3
+
+LEVEL 2
+4/5
+</text>
+    </card>
+    <card>
+      <name>Auri, Knower of Everything</name>
+      <set rarity="mythic">KKC</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>1WU</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Spells you cast have “Gift a card” and “If the gift was promised, add one mana of any color.”. (You may promise an opponent a gift as you cast this spell. If you do, when it enters, they draw a card.)
+Whenever you give a gift, you may promise it to yourself and an opponent. If you do, the opponent gets the gift first.
+If Auri would be dealt damage, she phases out instead.</text>
+    </card>
+    <card>
+      <name>Denna, The Nameless</name>
+      <set rarity="mythic">KKC</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>RR</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Human Bard </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vanishing 2, Haste, Skulk (This creature enters with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it. This creature can’t be blocked by creatures with greater power.)
+When Denna, The Nameless enters, create a Treasure token, draw a card, and explore.</text>
+      <related count="1">Treasure</related>
+    </card>
+    <card>
+      <name>Kote, The Inkeeper</name>
+      <set rarity="mythic">KKC</set>
+      <prop>
+        <colors>WURG</colors>
+        <manacost>2R/GW/U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human  </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch, Trample
+When Kote, The Inkeeper leaves the battlefield, exile all permanents with mana value four or greater.</text>
+    </card>
+    <card>
+      <name>Ctheah, The Infinite Sight</name>
+      <set rarity="mythic">KKC</set>
+      <prop>
+        <colors>URG</colors>
+        <manacost>GUR</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Faerie Demon </type>
+        <maintype>Creature</maintype>
+        <pt>0/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender, Indestructible
+Whenever a creature deals damage to Ctheah, The Infinite Sight, gain control of it until your next endstep.
+On your endstep, exile target creature you control and return it to the battlefield under your control.</text>
+    </card>
+    <card>
+      <name>Elorin, The Namer</name>
+      <set rarity="mythic">KKC</set>
+      <prop>
+        <colors>WUR</colors>
+        <manacost>URW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>On your upkeep, put a charge counter on Elorin.
+{5}: X is equal to the number of charge counters on Elorin. Exile Elorin. Choose one —
+• Choose up to X permanents. The chosen permanents lose all types and abilities, becoming enchantments named “Stone”.
+• Choose up to XX permanents. Return the chosen permanents to their owner’s hands.
+• Deal XXX damage split among any number of targets.</text>
+    </card>
+    <card>
+      <name>Bast, The Prince of Twilight</name>
+      <set rarity="mythic">KKC</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>2RG</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Faerie Noble </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Bast, The Prince of Twilight or another legendary creature enters the battlefield under your control, put two +1/+1 counters on Bast and deal 2 damage to target opponent.
+Whenever Bast attacks, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+1G: Bast gains trample until end of turn.</text>
+    </card>
+    <card>
+      <name>Broken Bindings</name>
+      <set rarity="rare">KKC</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>WUU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Gift a Food (You may promise an opponent a gift as you cast this spell. If you do, they create a Food token before its other effects. It’s an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)
+If the gift was promised, this spell has split second. (As long as this spell is on the stack, players can’t cast spells or activate abilities that aren’t mana abilities.)
+Target player loses 2 life for each spell they control. Counter all spells controlled by them.</text>
+      <related count="1">Food</related>
+    </card>
+    <card>
+      <name>Burst of Innovation</name>
+      <set rarity="rare">KKC</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>1RG</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Gift a Clue. (You may promise an opponent a gift as you cast this spell. If you do, they create a Clue token before its other effects. It’s an artifact with “{2}, {T}, Sacrifice this artifact: Draw a Card.”)
+Create two Treasure tokens and a Food token. If the gift was promised, instead create a Powerstone token and a Food token. (It’s an artifact with “{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.”)</text>
+      <related count="1">Clue</related>
+      <related count="2">Treasure</related>
+      <related count="1">Powerstone</related>
+    </card>
+    <card>
+      <name>Shaed</name>
+      <set rarity="uncommon">KKC</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature can’t be blocked and has hexproof.
+Equip – Pay 2 life</text>
+    </card>
+    <card>
+      <name>Devi, The Exiled</name>
+      <set rarity="mythic">KKC</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>2RW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Gift a Treasure
+Whenever an opponent sacrifices a Treasure, you gain 2 life.
+When Devi enters, if the gift was promised, create a Powerstone token.
+Whenever a play casts an artifact spell, you and target opponent create a Treasure token.</text>
+      <related count="1">Treasure</related>
+      <related count="1">Powerstone</related>
+    </card>
+
+    <!-->Tokens</-->
+
+
+  </cards>
+</cockatrice_carddatabase>

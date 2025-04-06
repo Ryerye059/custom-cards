@@ -10,3 +10,5 @@ Isekai: \
 https://docs.google.com/document/d/1zXxMr721v-eCl64iDti--hoCFuSEZXrXv0_NYdt_rPk/edit?usp=sharing: \
 Cosmere:: \
 https://docs.google.com/document/d/1FEhUKz7XAE7jr_BP4jmqQ2NDgD2h0lm4f2zYjJjDJRc/edit?usp=sharing
+Kingkiller:: \
+https://docs.google.com/document/d/1eg-igxEYyFKfhekghjgFC52cek5uwT7aZi1d8C0ZjJM/edit?usp=sharing
