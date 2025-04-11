@@ -22,10 +22,10 @@
       </prop>
       <tablerow>2</tablerow>
       <text>
-LEVEL 1
+LEVEL 1-2
 3/3
 
-LEVEL 2
+LEVEL 3-4
 4/5
 </text>
     </card>
@@ -41,9 +41,9 @@ LEVEL 2
         <pt>1/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Spells you cast have “Gift a card” and “If the gift was promised, add one mana of any color.”. (You may promise an opponent a gift as you cast this spell. If you do, when it enters, they draw a card.)
+      <text>Instant and sorcery spells you cast have “Gift a card”. (You may promise an opponent a gift as you cast this spell. If you do, when it enters, they draw a card.)
 Whenever you give a gift, you may promise it to yourself and an opponent. If you do, the opponent receives the gift first.
-If Auri would be dealt damage, she phases out instead.</text>
+If Auri would be dealt damage, instead exile her until your next upkeep.</text>
     </card>
     <card>
       <name>Denna, The Nameless</name>
@@ -90,10 +90,10 @@ When Kote, The Inkeeper leaves the battlefield, exile all permanents with mana v
       <tablerow>2</tablerow>
       <text>Defender, Indestructible
 Whenever a creature deals damage to Ctheah, The Infinite Sight, gain control of it until your next endstep.
-On your endstep, exile target creature you control and return it to the battlefield under your control.</text>
+At the beginning of your endstep, exile target creature you control and return it to the battlefield under your control.</text>
     </card>
     <card>
-      <name>Elorin, The Namer</name>
+      <name>Elodin, The Namer</name>
       <set rarity="mythic">KKC</set>
       <prop>
         <colors>WUR</colors>
@@ -104,11 +104,11 @@ On your endstep, exile target creature you control and return it to the battlefi
         <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>On your upkeep, put a charge counter on Elorin.
-{5}: X is equal to the number of charge counters on Elorin. Exile Elorin. Choose one —
+      <text>On your upkeep, put a charge counter on Elodin.
+{5}: X is equal to the number of charge counters on Elodin. Exile Elodin. Choose one —
 • Choose up to X permanents. The chosen permanents lose all types and abilities, becoming enchantments named “Stone”.
-• Choose up to XX permanents. Return the chosen permanents to their owner’s hands.
-• Deal XXX damage split among any number of targets.</text>
+• Choose up to twice X permanents. Return the chosen permanents to their owner’s hands.
+• Deal three times X damage split among any number of targets.</text>
     </card>
     <card>
       <name>Bast, The Prince of Twilight</name>
