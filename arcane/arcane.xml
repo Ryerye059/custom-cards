@@ -57,29 +57,29 @@ Whenever a nontoken creature you control enters, put a +1/+1 counter on it and d
       <set rarity="rare">ACN</set>
       <prop>
         <colors>W</colors>
-        <manacost>1WW</manacost>
-        <cmc>3</cmc>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>When Stillwater Hold enters, exile target permanent until Stillwater Hold leaves. Put XX charge counters on Stillwater Hold where X is the mana value of the exiled card.
-Whenever you gain energy, remove that many charge counters from Stillwater Hold.
+      <text>When Stillwater Hold enters, exile target permanent until Stillwater Hold leaves the battlefield. Put twice X  charge counters on Stillwater Hold where X is the mana value of the exiled card.
+Whenever you get one or more {E}, remove that many charge counters from Stillwater Hold.
 As long as Stillwater Hold has no charge counters, you may cast it’s exiled card without paying it’s mana cost.</text>
       <related>Energy Reserve</related>
     </card>
     <card>
       <name>Failed Revolution</name>
-      <set rarity="common">ACN</set>
+      <set rarity="uncommon">ACN</set>
       <prop>
         <colors>B</colors>
-        <manacost>1B</manacost>
-        <cmc>2</cmc>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
         <type>Instant</type>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Target creature you control gains “When this creature dies, if it wasn’t sacrificed, create two 1/1 Child token copies of it.” until end of turn.
+      <text>Target creature you control gains “When this creature dies, if it wasn’t sacrificed, create two tokens that are copies of this creature, except they are 1/1 Child creatures in addition to their other types” until end of turn.
 Hexfueled (When this spell is cast, you may pay EEE. If you do, copy this spell.)</text>
       <related>Energy Reserve</related>
     </card>
@@ -164,7 +164,7 @@ Hextech (Whenever an ability of this permanent is triggered/activated you may pa
     </card>
     <card>
       <name>Vander, Barbarian Protector</name>
-      <set rarity="mythic">ACN</set>
+      <set rarity="rare">ACN</set>
       <prop>
         <colors>G</colors>
         <manacost>2GG</manacost>
@@ -180,7 +180,7 @@ Partners with Grayson, Piltover Sheriff</text>
     </card>
     <card>
       <name>Grayson, Piltover Sheriff</name>
-      <set rarity="mythic">ACN</set>
+      <set rarity="rare">ACN</set>
       <prop>
         <colors>W</colors>
         <manacost>2WW</manacost>
@@ -191,7 +191,7 @@ Partners with Grayson, Piltover Sheriff</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Modified creatures you control have vigilance.
-{3}, {T}: Put a shield counter on target creature. Activate only at sorcery speed. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
+{3}, {T}: Put a shield counter on target creature. Activate only as a sorcery. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
 Partners with Vander, Barbarian Protector </text>
     </card>
     <card>
@@ -203,12 +203,12 @@ Partners with Vander, Barbarian Protector </text>
         <cmc>3</cmc>
         <type>Legendary Creature - Human Noble Soldier </type>
         <maintype>Creature</maintype>
-        <pt>0/3</pt>
+        <pt>1/3</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Deathtouch
-{4}, {T}: Caitlyn Kiramman deals 1 damage to target creature. This damage cannot be prevented.
-On your endstep, if Caitlyn Kiramman didn’t attack this turn you get {E}.
+{4}, {T}: Caitlyn Kiramman deals 1 damage to target creature. This damage cannot be prevented. If target creature dies this way, sacrifice Caitlyn Kiramman.
+At the beginning of your endstep, if Caitlyn Kiramman didn’t attack this turn you get {E}.
 Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that ability. Hextech cannot be responded to.)</text>
       <related>Energy Reserve</related>
     </card>
@@ -225,7 +225,7 @@ Hextech (Whenever an ability of this permanent is triggered/activated you may pa
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever you cast an instant or sorcery spell, you get EE.
-Whenever you gain energy, put a +1/+1 counter on Jayce, Industry Revolutionary.</text>
+Whenever you get one or more {E}, put a +1/+1 counter on Jayce, Industry Revolutionary.</text>
       <related>Energy Reserve</related>
     </card>
     <card>
@@ -240,7 +240,7 @@ Whenever you gain energy, put a +1/+1 counter on Jayce, Industry Revolutionary.<
         <pt>2/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever you gain energy, you may pay EE. If you do, draw a card.
+      <text>Whenever you get one or more {E}, you may pay EE. If you do, draw a card.
 {T}, Pay 4 life: You get EEEE
 Hextech (Whenever an ability of this permanent is triggered/activated you may pay EEE. If you do, copy that ability. Hextech cannot be responded to.)</text>
       <related>Energy Reserve</related>
@@ -257,7 +257,7 @@ Hextech (Whenever an ability of this permanent is triggered/activated you may pa
         <pt>3/5</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever Silco, The Eye of Zaun attacks, it deals 4 damage to any target.
+      <text>Whenever Silco, The Eye of Zaun attacks, Silco deals 4 damage to any target.
 Whenever you lose 3 or more life, you get EE.</text>
       <related>Energy Reserve</related>
     </card>
@@ -274,7 +274,7 @@ Whenever you lose 3 or more life, you get EE.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever you draw a card except the first one you draw in each of your draw steps, you get {E}.
-Heimerdinger, Eternal Watcher gets +1/+1 for every {E} you have.</text>
+Heimerdinger, Eternal Watcher gets +1/+1 for each {E} you have.</text>
       <related>Energy Reserve</related>
     </card>
     <card>
