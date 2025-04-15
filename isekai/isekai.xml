@@ -21,8 +21,8 @@
         <pt>1/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>{2}, {T}: Copy target artifact spell.
-Whenever you untap Eta for the first time on each of your turns, create a tapped token that’s a copy of target artifact that doesn’t have the same name as another artifact you control. </text>
+      <text>{3}, {T}: Copy target creature or artifact spell an opponent controls. If you copy a creature spell this way, it becomes an artifact in addition to its other types.
+At the beginning of your upkeep, create a token copy of an artifact you control that has the same name as a permanent an opponent controls. It gains haste. Sacrifice it at the beginning of the next end step. </text>
     </card>
     <card>
       <name>Eminence in Shadow</name>
@@ -37,8 +37,8 @@ Whenever you untap Eta for the first time on each of your turns, create a tapped
       </prop>
       <tablerow>2</tablerow>
       <text>Eminence — As long as Shadow is in the command zone or on the battlefield, you can’t cast spells from your hand. Each nonland card in your hand has foretell. Its foretell cost is equal to its mana cost. 
-Double strike, Flying, Trample, Ward {2}
-When Shadow enters destroy all nonland permanents you control. Then if Shadow was cast from the command zone, for each nontoken creature destroyed this way, put a +1/+1 counter on Shadow, and for each nontoken, noncreature permanent destroyed this way, create a treasure token. </text>
+Double strike, Flying, Trample, Ward {1}
+When Shadow enters destroy all nonland permanents you control. Then if Shadow was cast from the command zone, for each creature destroyed this way, put a +1/+1 counter on Shadow, and for each other permanent destroyed this way, create a treasure token. </text>
       <related count="x">Treasure Token</related>
     </card>
     <card>
@@ -87,7 +87,7 @@ Betrayal — Whenever Beta’s owner gains control of Beta, they may play any nu
       </prop>
       <tablerow>2</tablerow>
       <text>{1}, Sacrifice another nontoken permanent: Target opponent may return the sacrificed permanent from a graveyard to the battlefield under their control. Create a number of tapped treasure tokens equal to 1 plus the number of permanents you own that your opponents control. Activate only as a sorcery.
-XXU: Gain control of target nonland permanent with mana value X or less. Spend only mana produced by Treasures to pay for X.</text>
+XXUU: Gain control of target nonland permanent with mana value X or less. Spend only mana produced by Treasures to pay for X.</text>
       <related count="1">Treasure Token</related>
       <related count="x">Treasure Token</related>
     </card>
@@ -121,6 +121,7 @@ Whenever Delta deals combat damage to a player, she deals that much damage divid
       <tablerow>2</tablerow>
       <text>Deathtouch, First strike
 Whenever Epsilon deals combat damage to a player, gain control of target creature that player controls. If you own that creature, create a treasure token and draw a card. </text>
+      <related>Treasure Token</related>
     </card>
     <card>
       <name>Zeta, Wandering Scout</name>
@@ -383,6 +384,265 @@ At the beginning of your upkeep, if you control three or more Rogues and/or Seve
       <related>Skulk Rogue</related>
       <related count="x">Skulk Rogue</related>
     </card>
+    <card>
+      <name>Eye of Avarice</name>
+      <set rarity="rare">ISK</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of each upkeep, put a charge counter on Eye of Avarice.
+When Eye of Avarice has 13 or more charge counters on it, exile it. If you do, it deals X damage to each creature and each player, where X is the number of charge counters on Eye of Avarice. </text>
+    </card>
+    <card>
+      <name>Avarice Control Unit</name>
+      <set rarity="rare">ISK</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Remove all counters from target creature or artifact. For every 4 counters removed this way, create a tapped treasure token and lose 1 life. </text>
+    </card>
+    <card>
+      <name>Perv Asshat</name>
+      <set rarity="rare">ISK</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>3BR</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Human Noble </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace, Secret Agent
+At the beginning of your upkeep, sacrifice another creature. If you do, Perv deals 4 damage to target player and you gain that much life.
+Betrayal - When Perv’s owner gains control of it, Perv deals 6 damage to any target and Perv’s owner gains that much life. Perv loses all abilities other than menace. </text>
+    </card>
+    <card>
+      <name>Rex, Game of Betrayal</name>
+      <set rarity="rare">ISK</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1BR</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>5/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike, Menace
+Rex must attack each combat if able.
+Whenever Rex deals combat damage to a player, that player gains control of Rex. 
+Betrayal — When Rex’s owner gains control of it, put two +1/+1 counters on Rex and Rex’s owner draws a card. </text>
+    </card>
+    <card>
+      <name>Network of Lies</name>
+      <set rarity="rare">ISK</set>
+      <prop>
+        <colors>UBR</colors>
+        <manacost>1UBR</manacost>
+        <cmc>4</cmc>
+        <type>Kindred Enchantment  - Rogue </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you cast a Rogue spell, gain control of target creature until end of turn. Untap that creature. Until end of turn, it gains haste, becomes a Rogue in addition to its other types and it can’t be sacrificed. </text>
+    </card>
+    <card>
+      <name>Swap Teams</name>
+      <set rarity="rare">ISK</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>UR</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exchange control of target permanent an opponent controls and another target permanent you control chosen at random that shares a permanent type with it. </text>
+    </card>
+    <card>
+      <name>Information Gathering</name>
+      <set rarity="uncommon">ISK</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw a card for each permanent you own but your opponents control.</text>
+    </card>
+    <card>
+      <name>Grow the Numbers</name>
+      <set rarity="uncommon">ISK</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose a creature that player controls. If you own that creature, gain control of it. Otherwise, you gain control of it until end of turn. Untap that creature. It gains haste until end of turn. </text>
+    </card>
+    <card>
+      <name>The Invisible Blade</name>
+      <set rarity="rare">ISK</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever equipped creature attacks, it deals damage equal to its power to up to one target creature defending player controls.
+Equip {3}</text>
+    </card>
+    <card>
+      <name>Iris&apos; Fiery Blade</name>
+      <set rarity="rare">ISK</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{R}: Equipped creature gets +1/+0 until end of turn.
+Whenever equipped creature attacks, it deals 3 damage divided as you choose among one, two, or three targets.
+Equip 1R</text>
+    </card>
+    <card>
+      <name>Iris Midgar</name>
+      <set rarity="rare">ISK</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Knight </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever Iris Midgar deals combat damage to a player, create a treasure token for each creature that player controls. </text>
+      <related count="x">Treasure Token</related>
+    </card>
+    <card>
+      <name>Beatrice, Sword Goddess</name>
+      <set rarity="rare">ISK</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Elf Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Players can’t gain life. 
+At the beginning of combat on your turn, each opponent creates a food token. Then each opponent may have you gain control of a token they control. For each player who doesn’t, Beatrice deals damage to them equal to her power. </text>
+      <related count="3">Food Token</related>
+    </card>
+    <card>
+      <name>Obedience Drugs</name>
+      <set rarity="common">ISK</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may choose not to untap Obedience Drugs during your untap step.
+At the beginning of your upkeep, sacrifice Obedience Drugs unless you pay {1} for each age counter on it.
+{T}, Put an age counter on Obedience Drugs: Gain control of target creature for as long as you control Obedience Drugs and Obedience Drugs remains tapped.</text>
+    </card>
+    <card>
+      <name>Shadow Garden</name>
+      <set rarity="rare">ISK</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>3BR</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a Rogue or Seven-Shadows’ creature you own deals combat damage to an opponent, create a tapped treasure token and exile the top card of your library. You may play that card until the end of your next turn.  </text>
+      <related count="1">Treasure Token</related>
+      <related count="x">Treasure Token</related>
+    </card>
+    <card>
+      <name>Plans within Plans</name>
+      <set rarity="rare">ISK</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>3UR</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature you own but don’t control dies, or a creature you control but don’t own dies, you may look at the top card of your library. If it is not a land, you may exile that card. If you do, it becomes plotted.  (You may cast it as a sorcery on a later turn without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>The Time is Now</name>
+      <set rarity="rare">ISK</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile the top three cards of your library. Until the end of your next turn, you may play those cards. Whenever you cast a spell exiled with The Time is Now, copy it.  </text>
+    </card>
+    <card>
+      <name>Impulsive Scheme</name>
+      <set rarity="rare">ISK</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, exile the top card of your library. You may play that card until the end of turn. If it’s a spell, you may cast that spell without paying its mana cost. If you do, this card deals damage to you equal to that card’s mana value. </text>
+    </card>
+    <card>
+      <name>Nameless Number</name>
+      <set rarity="uncommon">ISK</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Secret Agent (When Nameless Number enters, target opponent gains control of it. Nameless Number can’t be sacrificed and can’t attack its owner. )
+At the beginning of your upkeep, Nameless Number deals 3 damage to you.
+Betrayal - Whenever this card’s owner gains control of it, it loses all abilities.</text>
+    </card>
 
     <!-->Tokens</-->
 
@@ -398,7 +658,6 @@ At the beginning of your upkeep, if you control three or more Rogues and/or Seve
       <tablerow>2</tablerow>
       <text>At the beginning of each upkeep, create a token that’s a copy of this creature.</text>
       <token>1</token>
-      <reverse-related>Cult of Diablos</reverse-related>
     </card>
     <card>
       <name>Ragnarok</name>
